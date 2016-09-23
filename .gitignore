@@ -1,0 +1,8 @@
+config.php
+admin/config.php
+install
+system/storage/cache/*
+system/storage/download/*
+system/storage/logs/*
+system/storage/modification/*
+system/storage/upload/*
