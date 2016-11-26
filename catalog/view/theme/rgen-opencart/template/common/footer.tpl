@@ -89,7 +89,8 @@ if ($phone['status'] || $fax['status'] || $fax['status']) {
 							</ul>
 						</div>
 						<?php } ?>
-						<div class="cl3">
+						
+<!-- 						<div class="cl3">
 							<h5 class="ft-hd"><?php echo $text_service; ?></h5>
 							<ul class="ul-reset">
 								<li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
@@ -115,7 +116,8 @@ if ($phone['status'] || $fax['status'] || $fax['status']) {
 								<li><a href="<?php echo $newsletter; ?>"><?php echo $text_newsletter; ?></a></li>
 							</ul>
 						</div>
-					</div>
+ -->					
+ 					</div>
 				</div>
 				<?php if ($ft_contact) { ?>
 				<div class="cl2 ft-contact-wrp">
