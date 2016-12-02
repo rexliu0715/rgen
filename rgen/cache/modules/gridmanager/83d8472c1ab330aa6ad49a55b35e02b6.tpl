@@ -1,4 +1,4 @@
-<div id="rgen-gridmanager-rgenvft8Hd" class="rgen-gridmanager gridmanager-rgpFy">
+<div id="rgen-gridmanager-rgenYJbEmO" class="rgen-gridmanager gridmanager-rgpFy">
 	<div class="mod-wrp container">
 		
 						
@@ -11,7 +11,7 @@
 					
 											<div class="rw gt20 mb0">
 														<div class="cl cl4 d-xl4 t-xl12 m-xl12 m-sm12 m-xs12" style="">
-								<div id="rgen-basicslideshow-rgenUe4joG" class="rgen-basicslideshow basicslideshow-rgN0C">
+								<div id="rgen-basicslideshow-rgenKyNxTa" class="rgen-basicslideshow basicslideshow-rgN0C">
 	<div>
 		<div class="slideshow-wrp dots-typ1 normal">
 			<div class="slideshow">
@@ -31,17 +31,17 @@
 $(document).ready(function(){
 
 		if ($('.ly-column').length == 0) {
-		$("#rgen-basicslideshow-rgenUe4joG > div").addClass('container');
+		$("#rgen-basicslideshow-rgenKyNxTa > div").addClass('container');
 	};
 	
 	var win         = $(window);
 	var auto        = true;
 	var autostopped = false;
-	var container   = $("#rgen-basicslideshow-rgenUe4joG .slideshow-wrp");
+	var container   = $("#rgen-basicslideshow-rgenKyNxTa .slideshow-wrp");
 
 	/* Default slide script
 	------------------------*/
-	var sudoSlider = $("#rgen-basicslideshow-rgenUe4joG .slideshow").sudoSlider({
+	var sudoSlider = $("#rgen-basicslideshow-rgenKyNxTa .slideshow").sudoSlider({
 		responsive: true,
 		controlsAttr: 'class="owl-controls"',
 		effect: "random",
@@ -76,7 +76,7 @@ $(document).ready(function(){
 //--></script>
 							</div>
 														<div class="cl cl8 d-xl8 t-xl12 m-xl12 m-sm12 m-xs12" style="">
-								<div id="rgen-productgroups-rgenPaHFLO" class="rgen-productgroups productgroups-rgBhu">
+								<div id="rgen-productgroups-rgen29MSr2" class="rgen-productgroups productgroups-rgBhu">
 	<div class="mod-wrp container">
 	
 			
@@ -86,7 +86,7 @@ $(document).ready(function(){
 		<div class="m-cl cl12 t-xl12">
 									
 			<div class="mod-content">
-								<div class="rw  eq3 d-eq3 t-eq3 mxl-eq2 msm-eq2 mxs-eq1 gt10 mb10 " id="grid-rgen-productgroups-rgenPaHFLO_0">
+								<div class="rw  eq3 d-eq3 t-eq3 mxl-eq2 msm-eq2 mxs-eq1 gt10 mb10 " id="grid-rgen-productgroups-rgen29MSr2_0">
 															<div class="cl">
 						<div class="prd-block prd-block1">
 	
@@ -324,7 +324,7 @@ $(document).ready(function(){
 									</div>
 								<script>
 				jQuery(document).ready(function($) {
-					equalH('#rgen-productgroups-rgenPaHFLO #grid-rgen-productgroups-rgenPaHFLO_0', '#rgen-productgroups-rgenPaHFLO #grid-rgen-productgroups-rgenPaHFLO_0 > .cl');
+					equalH('#rgen-productgroups-rgen29MSr2 #grid-rgen-productgroups-rgen29MSr2_0', '#rgen-productgroups-rgen29MSr2 #grid-rgen-productgroups-rgen29MSr2_0 > .cl');
 				});
 				</script>
 								
@@ -338,14 +338,14 @@ $(document).ready(function(){
 							</div>
 													</div>
 										<script>
-					$("#rgen-gridmanager-rgenvft8Hd").css({opacity: 0});
+					$("#rgen-gridmanager-rgenYJbEmO").css({opacity: 0});
 					jQuery(document).ready(function($) {
-						$("#rgen-gridmanager-rgenvft8Hd").animate({opacity: 1}, 1000, function () {
-							equalH('#rgen-gridmanager-rgenvft8Hd .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgenvft8Hd .gridmanager-mod-content > .rw > .cl');
+						$("#rgen-gridmanager-rgenYJbEmO").animate({opacity: 1}, 1000, function () {
+							equalH('#rgen-gridmanager-rgenYJbEmO .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgenYJbEmO .gridmanager-mod-content > .rw > .cl');
 						});
 					});
 					jQuery(window).resize(function($) {
-						equalH('#rgen-gridmanager-rgenvft8Hd .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgenvft8Hd .gridmanager-mod-content > .rw > .cl');
+						equalH('#rgen-gridmanager-rgenYJbEmO .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgenYJbEmO .gridmanager-mod-content > .rw > .cl');
 					});
 					</script>
 					

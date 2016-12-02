@@ -1,4 +1,4 @@
-<div id="rgen-productgroups-rgenPXm5yh" class="rgen-productgroups productgroups-rgBFz">
+<div id="rgen-productgroups-rgenB9BM2G" class="rgen-productgroups productgroups-rgBFz">
 	<div class="mod-wrp container">
 	
 			
@@ -9,7 +9,7 @@
 									<h3 class="sub-mod-hd">Special offers</h3>
 						
 			<div class="mod-content">
-								<div class="rw  eq1 d-eq1 t-eq1 mxl-eq1 msm-eq1 mxs-eq1 gt0 mb0 " id="grid-rgen-productgroups-rgenPXm5yh_0">
+								<div class="rw  eq1 d-eq1 t-eq1 mxl-eq1 msm-eq1 mxs-eq1 gt0 mb0 " id="grid-rgen-productgroups-rgenB9BM2G_0">
 									</div>
 								
 							</div>
