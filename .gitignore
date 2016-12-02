@@ -2,6 +2,7 @@ config.php
 admin/config.php
 install
 .DS_Store
+rgen/cache/*
 image/cache/*
 system/storage/cache/*
 system/storage/download/*
