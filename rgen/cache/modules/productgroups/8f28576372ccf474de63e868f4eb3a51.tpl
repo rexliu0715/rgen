@@ -1,4 +1,4 @@
-<div id="rgen-productgroups-rgenzdPw2P" class="rgen-productgroups productgroups-rgBhu">
+<div id="rgen-productgroups-rgen28H2lb" class="rgen-productgroups productgroups-rgBhu">
 	<div class="mod-wrp container">
 	
 			
@@ -8,7 +8,7 @@
 		<div class="m-cl cl12 t-xl12">
 									
 			<div class="mod-content">
-								<div class="rw  eq3 d-eq3 t-eq3 mxl-eq2 msm-eq2 mxs-eq1 gt10 mb10 " id="grid-rgen-productgroups-rgenzdPw2P_0">
+								<div class="rw  eq3 d-eq3 t-eq3 mxl-eq2 msm-eq2 mxs-eq1 gt10 mb10 " id="grid-rgen-productgroups-rgen28H2lb_0">
 															<div class="cl">
 						<div class="prd-block prd-block1">
 	
@@ -246,7 +246,7 @@
 									</div>
 								<script>
 				jQuery(document).ready(function($) {
-					equalH('#rgen-productgroups-rgenzdPw2P #grid-rgen-productgroups-rgenzdPw2P_0', '#rgen-productgroups-rgenzdPw2P #grid-rgen-productgroups-rgenzdPw2P_0 > .cl');
+					equalH('#rgen-productgroups-rgen28H2lb #grid-rgen-productgroups-rgen28H2lb_0', '#rgen-productgroups-rgen28H2lb #grid-rgen-productgroups-rgen28H2lb_0 > .cl');
 				});
 				</script>
 								
