@@ -1,6 +1,7 @@
 config.php
 admin/config.php
 install
+.htaccess
 system/storage/cache/*
 system/storage/download/*
 system/storage/logs/*

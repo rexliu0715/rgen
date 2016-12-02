@@ -497,3 +497,68 @@ color:#000;
 text-shadow:none;
 }
 
+.tp-caption.rgen-cp1 {
+font-size:70px;
+line-height:1;
+font-weight:400;
+font-family:Oswald;
+color:rgb(255, 255, 255);
+text-decoration:none;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
+.tp-caption.rgen-cp2 {
+font-size:25px;
+line-height:1;
+font-weight:300;
+font-family:Roboto;
+color:#ffffff;
+text-decoration:none;
+background-color:transparent;
+text-align:center;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
+.tp-caption.rgen-cp-btn {
+font-size:16px;
+line-height:1;
+font-weight:400;
+font-family:"Oswald";
+color:#ffffff;
+text-decoration:none;
+text-align:center;
+background-color:transparent;
+text-transform:uppercase;
+padding:8px 30px;
+border-width:1px;
+border-color:rgb(255, 255, 255);
+border-style:solid;
+}
+
+.tp-caption.rgen-cp3 {
+font-family:"Rancho";
+color:#ffffff;
+font-size:40px;
+line-height:1;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
+.tp-caption.rgen-cp1-large {
+font-size:140px;
+line-height:1;
+font-weight:400;
+font-family:Oswald;
+color:#ffffff;
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
