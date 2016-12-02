@@ -1,4 +1,4 @@
-<div id="rgen-imagegallery-rgenXPpDwp" class="rgen-imagegallery imagegallery-rgO2R" data-pswp-uid="1">
+<div id="rgen-imagegallery-rgenkk6Qfw" class="rgen-imagegallery imagegallery-rgO2R" data-pswp-uid="1">
 	<div class="mod-wrp container">
 						<h3 class="mod-hd">Image gallery</h3>
 				
@@ -13,7 +13,7 @@
 
 								
 
-																								<div class="gallery-normalgrid-0 rw eq3 d-eq3 t-eq3 mxl-eq3 msm-eq3 mxs-eq3 gt10 mb10" id="grid-rgen-imagegallery-rgenXPpDwp_0" itemscope itemtype="http://schema.org/ImageGallery">
+																								<div class="gallery-normalgrid-0 rw eq3 d-eq3 t-eq3 mxl-eq3 msm-eq3 mxs-eq3 gt10 mb10" id="grid-rgen-imagegallery-rgenkk6Qfw_0" itemscope itemtype="http://schema.org/ImageGallery">
 																											<div class="cl">
 										<figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 	<div class="overlay">
@@ -103,7 +103,7 @@
 																	</div>
 								<script>
 								jQuery(document).ready(function($) {
-									equalH('#rgen-imagegallery-rgenXPpDwp #grid-rgen-imagegallery-rgenXPpDwp_0', '#rgen-imagegallery-rgenXPpDwp #grid-rgen-imagegallery-rgenXPpDwp_0 > .cl');
+									equalH('#rgen-imagegallery-rgenkk6Qfw #grid-rgen-imagegallery-rgenkk6Qfw_0', '#rgen-imagegallery-rgenkk6Qfw #grid-rgen-imagegallery-rgenkk6Qfw_0 > .cl');
 								});
 								</script>
 								
@@ -122,6 +122,6 @@
 </div>
 <script>
 $(document).ready(function() {
-	photoSwipe_fn('#rgen-imagegallery-rgenXPpDwp');
+	photoSwipe_fn('#rgen-imagegallery-rgenkk6Qfw');
 });
 </script>
