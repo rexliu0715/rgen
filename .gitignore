@@ -3,6 +3,7 @@ admin/config.php
 install
 .DS_Store
 .htaccess
+image/cache/*
 system/storage/cache/*
 system/storage/download/*
 system/storage/logs/*
