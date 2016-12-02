@@ -1,6 +1,7 @@
 config.php
 admin/config.php
 install
+.DS_Store
 .htaccess
 system/storage/cache/*
 system/storage/download/*
