@@ -24,12 +24,12 @@
 				<?php } ?>
 			</select>
 		</li>
-<!-- 		<li class="compare"><a href="<?php echo $compare; ?>" id="compare-total" class="default-btn"><?php echo $text_compare; ?></a></li>
-		<li class="display">
+		<li class="compare"><a href="<?php echo $compare; ?>" id="compare-total" class="default-btn"><?php echo $text_compare; ?></a></li>
+<!-- 		<li class="display">
 			<button type="button" class="vm" id="list-view" data-toggle="tooltip" title="<?php echo $button_list; ?>"><i class="glyphicon glyphicon-th-list"></i></button>
 			<button type="button" class="vm" id="grid-view" data-toggle="tooltip" title="<?php echo $button_grid; ?>"><i class="glyphicon glyphicon-th-large"></i></button>
-		</li>
- -->	</ul>
+		</li> -->
+ 	</ul>
 
 	<b class="hr"></b>
 </div>
