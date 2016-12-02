@@ -1,4 +1,4 @@
-<div id="rgen-productgroups-rgenplH70s" class="rgen-productgroups productgroups-rgj9L">
+<div id="rgen-productgroups-rgenqALcsc" class="rgen-productgroups productgroups-rgj9L">
 	<div class="mod-wrp container">
 	
 			<h3 class="mod-hd">Product group module</h3>
@@ -30,7 +30,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenplH70s_0"
+								id            ="carousel-rgen-productgroups-rgenqALcsc_0"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -39,7 +39,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-res      ="true" 
 								data-margin   ="10">
 																								<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenVvIpEp">
+									<div class="prd-block prd-block3" id="prd-block3-rgeneqVq4i">
 	
 	
 						
@@ -47,7 +47,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 	<div class="image">
 				
 		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA埃及妖后眼部療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA埃及妖后眼部療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="ALQVIMIA埃及妖后眼部療程" title="ALQVIMIA埃及妖后眼部療程" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA埃及妖后眼部療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/alqvimia/8-300x300.jpg" alt="ALQVIMIA埃及妖后眼部療程" title="ALQVIMIA埃及妖后眼部療程" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
@@ -80,7 +80,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenCK8k3b">
+									<div class="prd-block prd-block3" id="prd-block3-rgenfZuWED">
 	
 	
 						
@@ -121,7 +121,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgennP9EGr">
+									<div class="prd-block prd-block3" id="prd-block3-rgenPswi4X">
 	
 	
 						
@@ -135,7 +135,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 	<div class="info-wrp">
 		<div class="info-content">
 			<h4 class="name"><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/排毒養生儀">排毒養生儀</a></h4>
-			<p class="info grid-off list-on normal-off">利用排毒養生儀刺激肌肉，有效改善因長期受壓而影響體態問題。同時能舒解身體的結節，疏通經絡及帶動血液循環，加快淋巴排毒、調節氣血疏通﹐改善舒緩肌肉壓力及改善身體線條。..</p>	
+			<p class="info grid-off list-on normal-off">利用排毒養生儀刺激肌肉，有效改善因長期受壓而影響體態問題。同時能舒解身體的結節，疏通經絡及帶動血液循環，加快淋巴排毒、調節氣血疏通﹐改善舒緩肌肉壓力及改善身體線條。Step1) 清潔身體	2) 儀器操..</p>	
 		</div>
 
 		<div class="price-wrp">
@@ -162,7 +162,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenkentxT">
+									<div class="prd-block prd-block3" id="prd-block3-rgenEQYdrw">
 	
 	
 						
@@ -203,20 +203,20 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenZXeH4f">
+									<div class="prd-block prd-block3" id="prd-block3-rgenOR6A4z">
 	
 	
 						
 	
 	<div class="image">
 				
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/冰極舒緩防敏護理療程 (面+頸)&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/冰極舒緩防敏護理療程 (面+頸)"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="冰極舒緩防敏護理療程 (面+頸) " title="冰極舒緩防敏護理療程 (面+頸) " class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/冰極舒緩防敏護理療程面頸&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/冰極舒緩防敏護理療程面頸"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="冰極舒緩防敏護理療程 (面+頸) " title="冰極舒緩防敏護理療程 (面+頸) " class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
 		<div class="info-content">
-			<h4 class="name"><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/冰極舒緩防敏護理療程 (面+頸)">冰極舒緩防敏護理療程 (面+頸) </a></h4>
+			<h4 class="name"><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/冰極舒緩防敏護理療程面頸">冰極舒緩防敏護理療程 (面+頸) </a></h4>
 			<p class="info grid-off list-on normal-off">利用冰極滲透﹐加強皮膚吸收﹐將營養及水份滲透至肌膚底層﹐強效保濕、收細毛孔﹐立即舒緩及鎮靜皮膚﹐即時為肌膚降紅防敏。冰極舒緩防敏護理療程利用冰極離子導入技術，讓導入的營養迅速注滿每顆細胞，使營養徹底滲..</p>	
 		</div>
 
@@ -244,20 +244,20 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgen90KRpp">
+									<div class="prd-block prd-block3" id="prd-block3-rgenMjZIK4">
 	
 	
 						
 	
 	<div class="image">
 				
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Fresh-peel-面+頸&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Fresh-peel-面+頸"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="Fresh peel 面+頸" title="Fresh peel 面+頸" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Fresh-peel-面-頸&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Fresh-peel-面-頸"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="Fresh peel 面+頸" title="Fresh peel 面+頸" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
 		<div class="info-content">
-			<h4 class="name"><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Fresh-peel-面+頸">Fresh peel 面+頸</a></h4>
+			<h4 class="name"><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Fresh-peel-面-頸">Fresh peel 面+頸</a></h4>
 			<p class="info grid-off list-on normal-off">傳統磨皮療程只著重去除表面角質卻忽略保水及潔淨， Fresh peel用水壓磨皮技術能帶走30至35死皮促進新陳代謝,啟動膠原機制,除深層潔淨皮膚，更有效改善粗糙暗啞，,提升肌膚吸收養份能力﹐利用強壓..</p>	
 		</div>
 
@@ -285,20 +285,20 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgeng2apme">
+									<div class="prd-block prd-block3" id="prd-block3-rgen0Z4vVJ">
 	
 	
 						
 	
 	<div class="image">
 				
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/水滴持遞射頻透明質酸+活勝肽/美白面部療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/水滴持遞射頻透明質酸+活勝肽/美白面部療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="水滴持遞射頻透明質酸+活勝肽/美白面部療程" title="水滴持遞射頻透明質酸+活勝肽/美白面部療程" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/水滴持遞射頻透明質酸活勝肽美白面部療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/水滴持遞射頻透明質酸活勝肽美白面部療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="水滴持遞射頻透明質酸+活勝肽/美白面部療程" title="水滴持遞射頻透明質酸+活勝肽/美白面部療程" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
 		<div class="info-content">
-			<h4 class="name"><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/水滴持遞射頻透明質酸+活勝肽/美白面部療程">水滴持遞射頻透明質酸+活勝肽/美白面部療程</a></h4>
+			<h4 class="name"><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/水滴持遞射頻透明質酸活勝肽美白面部療程">水滴持遞射頻透明質酸+活勝肽/美白面部療程</a></h4>
 			<p class="info grid-off list-on normal-off">分段式科技將射頻能量分成微米小點﹐透過22個"多極式"黃金導體發放﹐當射頻進入皮膚後﹐產生{水滴形熱效應}﹐並於真皮層以水滴狀持續傳遞。三重協同功效:揉合射頻、微針、導入治療於一身﹐同時緊致、激活、滋..</p>	
 		</div>
 
@@ -326,7 +326,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenBJ4KoK">
+									<div class="prd-block prd-block3" id="prd-block3-rgen8LbF3g">
 	
 	
 						
@@ -368,15 +368,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								</div>
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenplH70s .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenqALcsc .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenplH70s .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenqALcsc .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenplH70s .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenqALcsc .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
@@ -386,7 +386,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenplH70s_1"
+								id            ="carousel-rgen-productgroups-rgenqALcsc_1"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -396,15 +396,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-margin   ="10">
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenplH70s .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenqALcsc .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenplH70s .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenqALcsc .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenplH70s .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenqALcsc .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
@@ -414,7 +414,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenplH70s_2"
+								id            ="carousel-rgen-productgroups-rgenqALcsc_2"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -424,15 +424,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-margin   ="10">
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenplH70s .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenqALcsc .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenplH70s .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenqALcsc .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenplH70s .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenqALcsc .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
@@ -442,7 +442,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenplH70s_3"
+								id            ="carousel-rgen-productgroups-rgenqALcsc_3"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -451,7 +451,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-res      ="true" 
 								data-margin   ="10">
 																								<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgencIZAcx">
+									<div class="prd-block prd-block3" id="prd-block3-rgenDH6CVx">
 	
 	
 						
@@ -492,7 +492,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgentcuITz">
+									<div class="prd-block prd-block3" id="prd-block3-rgen8Kpeku">
 	
 	
 						
@@ -533,7 +533,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenX3AIV0">
+									<div class="prd-block prd-block3" id="prd-block3-rgenN7ONQy">
 	
 	
 						
@@ -574,7 +574,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgen7b2iBp">
+									<div class="prd-block prd-block3" id="prd-block3-rgenSRyXmt">
 	
 	
 						
@@ -615,7 +615,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenwc9AXx">
+									<div class="prd-block prd-block3" id="prd-block3-rgenGvfSbj">
 	
 	
 						
@@ -656,7 +656,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenl9glJs">
+									<div class="prd-block prd-block3" id="prd-block3-rgen8O1erW">
 	
 	
 						
@@ -697,7 +697,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenSdEnVy">
+									<div class="prd-block prd-block3" id="prd-block3-rgenMzGcO1">
 	
 	
 						
@@ -738,7 +738,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenWSBwAw">
+									<div class="prd-block prd-block3" id="prd-block3-rgenGC8vqZ">
 	
 	
 						
@@ -780,15 +780,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								</div>
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenplH70s .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenqALcsc .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenplH70s .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenqALcsc .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenplH70s .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenqALcsc .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
