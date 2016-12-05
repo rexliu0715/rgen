@@ -119,13 +119,13 @@ if ($prdpg == 2) { ?>
 				
 				<div class="product-options-wrp" id="product">
 					<?php include $rgen_config->prd_buyinginfo1; ?>
-					// <?php include $rgen_config->prd_options; ?>
+					<?php include $rgen_config->prd_tabs; ?>
 				</div>
 				
 			</div>
 		</div>
 	</div>
-	<?php include $rgen_config->prd_tabs; ?>
+	<?php include $rgen_config->prd_options; ?>
 	<?php include $rgen_config->prd_tags; ?>
 </div>
 <?php } ?>
