@@ -118,13 +118,13 @@ if ($prdpg == 2) { ?>
 				<?php echo isset($pdpg_bhd) ? $pdpg_bhd : null; ?>
 				
 				<div class="product-options-wrp" id="product">
-					<?php include $rgen_config->prd_buyinginfo1; ?>
 					<?php include $rgen_config->prd_tabs; ?>
 				</div>
 				
 			</div>
 		</div>
 	</div>
+	<?php include $rgen_config->prd_buyinginfo1; ?>
 	<?php include $rgen_config->prd_options; ?>
 	<?php include $rgen_config->prd_tags; ?>
 </div>
