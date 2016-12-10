@@ -1,4 +1,4 @@
-<div id="rgen-contentblocks-rgenHeWHkg" class="rgen-contentblocks contentblocks-rgx0N">
+<div id="rgen-contentblocks-rgenHhX0te" class="rgen-contentblocks contentblocks-rgx0N">
 	<div class="mod-wrp container">
 		
 						
@@ -36,7 +36,7 @@
 					</div>
 
 								<div class="btn-wrp">
-				<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn">
+				<a href="" class="default-btn">
 					View details				</a>
 			</div>
 					

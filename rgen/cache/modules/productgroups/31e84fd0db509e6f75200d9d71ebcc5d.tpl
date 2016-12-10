@@ -1,4 +1,4 @@
-<div id="rgen-productgroups-rgenELxYm6" class="rgen-productgroups productgroups-rgj9L">
+<div id="rgen-productgroups-rgenJE0HMt" class="rgen-productgroups productgroups-rgj9L">
 	<div class="mod-wrp container">
 	
 			<h3 class="mod-hd">Product group module</h3>
@@ -30,7 +30,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenELxYm6_0"
+								id            ="carousel-rgen-productgroups-rgenJE0HMt_0"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -39,15 +39,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-res      ="true" 
 								data-margin   ="10">
 																								<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgendD8On8">
+									<div class="prd-block prd-block3" id="prd-block3-rgenqhcDwQ">
 	
 	
 						
 	
 	<div class="image">
 				
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA埃及妖后眼部療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA埃及妖后眼部療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/no_image-300x300.jpg" alt="ALQVIMIA埃及妖后眼部療程" title="ALQVIMIA埃及妖后眼部療程" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA埃及妖后眼部療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA埃及妖后眼部療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/alqvimia/8-300x300.jpg" alt="ALQVIMIA埃及妖后眼部療程" title="ALQVIMIA埃及妖后眼部療程" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
@@ -65,14 +65,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('99', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('99');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('99');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('99');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('99');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -80,20 +80,20 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenxv4HtT">
+									<div class="prd-block prd-block3" id="prd-block3-rgen0GGFhM">
 	
 	
 						
 	
 	<div class="image">
 				
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=98&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=98"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="Cool Laser" title="Cool Laser" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/cool-laser&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/cool-laser"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/laser/1-300x300.jpg" alt="Cool Laser" title="Cool Laser" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
 		<div class="info-content">
-			<h4 class="name"><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=98">Cool Laser</a></h4>
+			<h4 class="name"><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/cool-laser">Cool Laser</a></h4>
 			<p class="info grid-off list-on normal-off">利用808光波﹐能有效令皮膚膚色變白及達致嫩膚功效﹐刺激肌膚淺層膠原自生與合成﹐改善紋理、收細毛孔。設有獨特的獨立金屬冷敷頭，可以為治療過程帶來冰爽體驗﹐減輕不適感覺。採用德國DIAS600W 二極管..</p>	
 		</div>
 
@@ -106,14 +106,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('98', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('98');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('98');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('98');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('98');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -121,15 +121,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenXa8USs">
+									<div class="prd-block prd-block3" id="prd-block3-rgenJY4HZx">
 	
 	
 						
 	
 	<div class="image">
 				
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/排毒養生儀&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/排毒養生儀"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="排毒養生儀" title="排毒養生儀" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/排毒養生儀&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/排毒養生儀"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/z1/2-300x300.jpg" alt="排毒養生儀" title="排毒養生儀" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
@@ -147,14 +147,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('97', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('97');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('97');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('97');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('97');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -162,15 +162,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenaCPy4f">
+									<div class="prd-block prd-block3" id="prd-block3-rgenWypkx4">
 	
 	
 						
 	
 	<div class="image">
 				
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/活血磁熱療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/活血磁熱療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="活血磁熱療程" title="活血磁熱療程" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/活血磁熱療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/活血磁熱療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/z1/1-300x300.jpg" alt="活血磁熱療程" title="活血磁熱療程" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
@@ -188,14 +188,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('96', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('96');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('96');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('96');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('96');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -203,15 +203,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgeniI0PHn">
+									<div class="prd-block prd-block3" id="prd-block3-rgenzhJAYv">
 	
 	
 						
 	
 	<div class="image">
 				
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/冰極舒緩防敏護理療程面頸&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/冰極舒緩防敏護理療程面頸"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="冰極舒緩防敏護理療程 (面+頸) " title="冰極舒緩防敏護理療程 (面+頸) " class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/冰極舒緩防敏護理療程面頸&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/冰極舒緩防敏護理療程面頸"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/z3/4-300x300.jpg" alt="冰極舒緩防敏護理療程 (面+頸) " title="冰極舒緩防敏護理療程 (面+頸) " class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
@@ -229,14 +229,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('95', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('95');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('95');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('95');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('95');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -244,15 +244,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenWU14Jo">
+									<div class="prd-block prd-block3" id="prd-block3-rgen4pMg2j">
 	
 	
 						
 	
 	<div class="image">
 				
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Fresh-peel-面-頸&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Fresh-peel-面-頸"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="Fresh peel 面+頸" title="Fresh peel 面+頸" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Fresh-peel-面-頸&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Fresh-peel-面-頸"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/z3/3-300x300.jpg" alt="Fresh peel 面+頸" title="Fresh peel 面+頸" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
@@ -270,14 +270,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('94', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('94');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('94');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('94');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('94');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -285,15 +285,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgendgUiYo">
+									<div class="prd-block prd-block3" id="prd-block3-rgen63ZMIg">
 	
 	
 						
 	
 	<div class="image">
 				
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/水滴持遞射頻透明質酸活勝肽美白面部療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/水滴持遞射頻透明質酸活勝肽美白面部療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="水滴持遞射頻透明質酸+活勝肽/美白面部療程" title="水滴持遞射頻透明質酸+活勝肽/美白面部療程" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/水滴持遞射頻透明質酸活勝肽美白面部療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/水滴持遞射頻透明質酸活勝肽美白面部療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/z3/2-300x300.jpg" alt="水滴持遞射頻透明質酸+活勝肽/美白面部療程" title="水滴持遞射頻透明質酸+活勝肽/美白面部療程" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
@@ -311,14 +311,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('93', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('93');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('93');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('93');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('93');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -326,20 +326,20 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenbWzjQr">
+									<div class="prd-block prd-block3" id="prd-block3-rgenyrfD9f">
 	
 	
 						
 	
 	<div class="image">
 				
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=92&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=92"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/demo/Thanksgiving_MAKE-UP-FOR-EVER-300x300.jpg" alt="Spec 808 Laser(全手)" title="Spec 808 Laser(全手)" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ Spec-808-Laser-全手&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ Spec-808-Laser-全手"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/laser/2-300x300.jpg" alt="Spec 808 Laser(全手)" title="Spec 808 Laser(全手)" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
 	<div class="info-wrp">
 		<div class="info-content">
-			<h4 class="name"><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=92">Spec 808 Laser(全手)</a></h4>
+			<h4 class="name"><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ Spec-808-Laser-全手">Spec 808 Laser(全手)</a></h4>
 			<p class="info grid-off list-on normal-off">根據臨床測試確定脫毛所需的能量密度，經過嚴格推算最終確認的激光器輸出功率（600W），保證了儀器卓越的脫毛效果。儀器更採用俄羅斯半導體發芯片封裝而成的高品質激光模塊，而採用獨立的金屬冷敷頭來維持較低的..</p>	
 		</div>
 
@@ -352,14 +352,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('92', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('92');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('92');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('92');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('92');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -368,15 +368,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								</div>
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenELxYm6 .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenJE0HMt .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenELxYm6 .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenJE0HMt .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenELxYm6 .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenJE0HMt .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
@@ -386,7 +386,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenELxYm6_1"
+								id            ="carousel-rgen-productgroups-rgenJE0HMt_1"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -396,15 +396,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-margin   ="10">
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenELxYm6 .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenJE0HMt .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenELxYm6 .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenJE0HMt .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenELxYm6 .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenJE0HMt .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
@@ -414,7 +414,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenELxYm6_2"
+								id            ="carousel-rgen-productgroups-rgenJE0HMt_2"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -424,15 +424,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-margin   ="10">
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenELxYm6 .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenJE0HMt .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenELxYm6 .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenJE0HMt .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenELxYm6 .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenJE0HMt .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
@@ -442,7 +442,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenELxYm6_3"
+								id            ="carousel-rgen-productgroups-rgenJE0HMt_3"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -451,14 +451,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-res      ="true" 
 								data-margin   ="10">
 																								<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenM03Bz8">
+									<div class="prd-block prd-block3" id="prd-block3-rgena5OAql">
 	
 	
 						
 	
 	<div class="image">
 		
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
 		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
@@ -477,14 +477,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -492,14 +492,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenQRRRHy">
+									<div class="prd-block prd-block3" id="prd-block3-rgenF0DoAB">
 	
 	
 						
 	
 	<div class="image">
 		
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
 		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
@@ -518,14 +518,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -533,14 +533,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenfEtgJc">
+									<div class="prd-block prd-block3" id="prd-block3-rgenTE1GV3">
 	
 	
 						
 	
 	<div class="image">
 		
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
 		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
@@ -559,14 +559,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -574,14 +574,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenFWtzes">
+									<div class="prd-block prd-block3" id="prd-block3-rgen017ZOP">
 	
 	
 						
 	
 	<div class="image">
 		
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
 		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
@@ -600,14 +600,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -615,14 +615,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenYqoxKf">
+									<div class="prd-block prd-block3" id="prd-block3-rgengnhw0r">
 	
 	
 						
 	
 	<div class="image">
 		
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
 		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
@@ -641,14 +641,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -656,14 +656,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenYwg28P">
+									<div class="prd-block prd-block3" id="prd-block3-rgenLbwzLX">
 	
 	
 						
 	
 	<div class="image">
 		
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
 		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
@@ -682,14 +682,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -697,14 +697,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenaZH2Rp">
+									<div class="prd-block prd-block3" id="prd-block3-rgenVrXyPy">
 	
 	
 						
 	
 	<div class="image">
 		
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
 		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
@@ -723,14 +723,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -738,14 +738,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenA633nM">
+									<div class="prd-block prd-block3" id="prd-block3-rgen9Jcaq7">
 	
 	
 						
 	
 	<div class="image">
 		
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
 		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
 				<div class="countdown"></div>
 			</div>
@@ -764,14 +764,14 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 	</div>
 
-	<div class="btn-wrp grid-on list-on normal-on grid-off list-on normal-off grid-off list-on normal-off">
+	<div class="btn-wrp grid-on list-on normal-on grid-off list-off normal-off grid-off list-off normal-off">
 		
 				<a class="btn btn-cart grid-on list-on normal-on" title="Add to Cart" onclick="cart.add('', '1');">Add to Cart</a>
 				
 		<div class="other-btn-wrp">
-			<a class="vm btn btn-wish grid-off list-on normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
+			<a class="vm btn btn-wish grid-off list-off normal-off" data-toggle="tooltip" title="Add to wish list" onclick="wishlist.add('');"><i class="fa fa-heart"></i></a>
 
-			<a class="vm btn btn-compare grid-off list-on normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
+			<a class="vm btn btn-compare grid-off list-off normal-off" data-toggle="tooltip" title="Add to Compare" onclick="compare.add('');"><i class="fa fa-retweet"></i></a>	
 		</div>
 		
 	</div>
@@ -780,15 +780,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								</div>
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenELxYm6 .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenJE0HMt .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenELxYm6 .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenJE0HMt .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenELxYm6 .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenJE0HMt .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);

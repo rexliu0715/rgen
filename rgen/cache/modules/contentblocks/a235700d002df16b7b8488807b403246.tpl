@@ -1,4 +1,4 @@
-<div id="rgen-contentblocks-rgenkDnwgs" class="rgen-contentblocks contentblocks-rgjTM">
+<div id="rgen-contentblocks-rgenPqrzlT" class="rgen-contentblocks contentblocks-rgjTM">
 	<div class="mod-wrp container">
 		
 						
@@ -20,7 +20,7 @@
 	<div class="ctn-inner-wrp">
 		
 									
-								<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="img-wrp" style="max-width:585px; ">
+								<a href="" class="img-wrp" style="max-width:585px; ">
 								<figure class="image"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/other/img1-585x310.jpg" alt="R.Gen - OpenCart Modern Store Design"></figure>
 				</a>
 					
@@ -31,7 +31,7 @@
 						<div class="text">Lorem ipsum dolor sit ametconsetetur sadipscing sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</div>
 			
 											<div class="btn-wrp">
-					<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn">
+					<a href="" class="default-btn">
 						View details					</a>
 				</div>
 									</div>
@@ -45,7 +45,7 @@
 	<div class="ctn-inner-wrp">
 		
 									
-								<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="img-wrp" style="max-width:585px; ">
+								<a href="" target="_blank" class="img-wrp" style="max-width:585px; ">
 								<figure class="image"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/other/img2-585x310.jpg" alt="R.Gen - OpenCart Modern Store Design"></figure>
 				</a>
 					
@@ -56,7 +56,7 @@
 						<div class="text">Lorem ipsum dolor sit ametconsetetur sadipscing sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</div>
 			
 											<div class="btn-wrp">
-					<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn">
+					<a href="" target="_blank" class="default-btn">
 						View details					</a>
 				</div>
 									</div>
@@ -66,7 +66,7 @@
 																	</div>
 																<script>
 								jQuery(document).ready(function($) {
-									equalH('#rgen-contentblocks-rgenkDnwgs .contentblock-grid', '#rgen-contentblocks-rgenkDnwgs .contentblock-grid > .cl');
+									equalH('#rgen-contentblocks-rgenPqrzlT .contentblock-grid', '#rgen-contentblocks-rgenPqrzlT .contentblock-grid > .cl');
 								});
 								</script>
 																

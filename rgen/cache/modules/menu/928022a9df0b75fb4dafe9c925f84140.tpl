@@ -7,6 +7,11 @@ Home			</a>
 			
 		</li>
 				<li class="">
+						<a class="main-item" href="/promotion">
+Promotion			</a>	
+			
+		</li>
+				<li class="">
 						<span class="main-item">
 Shop by Category			</span>
 						<div class="sub sub-size5">
@@ -20,10 +25,10 @@ Shop by Category			</span>
 	<li class="hd"><a class="sub-item" href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/alqvimia">Alqvimia</a></li>
 	</ul>
 <ul class="mg-items cat-block1">
-	<li class="hd"><a class="sub-item" href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/DH-HIFU">DH HIFU</a></li>
+	<li class="hd"><a class="sub-item" href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/dh-hifu">DH Hifu</a></li>
 	</ul>
 <ul class="mg-items cat-block1">
-	<li class="hd"><a class="sub-item" href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/eximia">EXIMIA</a></li>
+	<li class="hd"><a class="sub-item" href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/eximia">Eximia</a></li>
 	</ul>
 <ul class="mg-items cat-block1">
 	<li class="hd"><a class="sub-item" href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/laser-x">Laser</a></li>

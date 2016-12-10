@@ -1,4 +1,4 @@
-<div id="rgen-contentblocks-rgennpX5am" class="rgen-contentblocks contentblocks-rgQtX">
+<div id="rgen-contentblocks-rgenbXmrsg" class="rgen-contentblocks contentblocks-rgQtX">
 	<div class="mod-wrp container">
 		
 						
@@ -20,14 +20,11 @@
 
 				
 									
-								<figure class="icon vm" style="font-size: 60px;"><i class="glyphicon glyphicon-globe"></i></figure>
+								<figure class="image"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/promotion/1-250x250.jpg" alt="en - No data"></figure>
 				
 							
 		<div class="text-wrp">
-							<h3 class="name">
-										International delivery									</h3>
 						
-						<div class="text">Over 20 Countries</div>
 					</div>
 
 		
@@ -40,14 +37,11 @@
 
 				
 									
-								<figure class="icon vm" style="font-size: 60px;"><i class="glyphicon glyphicon-briefcase"></i></figure>
+								<figure class="image"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/promotion/11-250x250.jpg" alt="en - No data"></figure>
 				
 							
 		<div class="text-wrp">
-							<h3 class="name">
-										Click & Collect									</h3>
 						
-						<div class="text">Lorem ipsum dolor sit amet</div>
 					</div>
 
 		
@@ -60,14 +54,11 @@
 
 				
 									
-								<figure class="icon vm" style="font-size: 60px;"><i class="fa fa-truck"></i></figure>
+								<figure class="image"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/promotion/10-250x250.jpg" alt="en - No data"></figure>
 				
 							
 		<div class="text-wrp">
-							<h3 class="name">
-										Free standard delivery									</h3>
 						
-						<div class="text">Lorem ipsum dolor sit amet</div>
 					</div>
 
 		
@@ -80,14 +71,11 @@
 
 				
 									
-								<figure class="icon vm" style="font-size: 70px;"><i class="fa fa-lock"></i></figure>
+								<figure class="image"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/promotion/5-250x250.jpg" alt="en - No data"></figure>
 				
 							
 		<div class="text-wrp">
-							<h3 class="name">
-										Secure payment									</h3>
 						
-						<div class="text">Lorem ipsum dolor sit amet</div>
 					</div>
 
 		
@@ -96,7 +84,7 @@
 																	</div>
 																<script>
 								jQuery(document).ready(function($) {
-									equalH('#rgen-contentblocks-rgennpX5am .contentblock-grid', '#rgen-contentblocks-rgennpX5am .contentblock-grid > .cl');
+									equalH('#rgen-contentblocks-rgenbXmrsg .contentblock-grid', '#rgen-contentblocks-rgenbXmrsg .contentblock-grid > .cl');
 								});
 								</script>
 																

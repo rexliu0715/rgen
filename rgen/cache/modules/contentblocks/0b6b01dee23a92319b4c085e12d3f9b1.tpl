@@ -1,4 +1,4 @@
-<div id="rgen-contentblocks-rgenLXDicl" class="rgen-contentblocks contentblocks-rgJt7">
+<div id="rgen-contentblocks-rgenLg0dO0" class="rgen-contentblocks contentblocks-rgJt7">
 	<div class="mod-wrp container">
 		
 						<h3 class="mod-hd">Product Categories</h3>
@@ -27,7 +27,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 									data-margin   ="10">
 																		<div class="item">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="window.open('','mywindow');" style="cursor: pointer;"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -43,7 +43,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 					</div>
 
 								<div class="btn-wrp">
-				<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn">
+				<a href="" target="_blank" class="default-btn">
 					Shop now				</a>
 			</div>
 					
@@ -51,7 +51,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 </section>									</div>
 									<div class="item">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="window.open('','mywindow');" style="cursor: pointer;"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -67,7 +67,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 					</div>
 
 								<div class="btn-wrp">
-				<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn">
+				<a href="" target="_blank" class="default-btn">
 					Shop now				</a>
 			</div>
 					
@@ -75,7 +75,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 </section>									</div>
 									<div class="item">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="window.open('','mywindow');" style="cursor: pointer;"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -91,7 +91,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 					</div>
 
 								<div class="btn-wrp">
-				<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn">
+				<a href="" target="_blank" class="default-btn">
 					Shop now				</a>
 			</div>
 					
@@ -99,7 +99,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 </section>									</div>
 									<div class="item">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="window.open('','mywindow');" style="cursor: pointer;"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -115,7 +115,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 					</div>
 
 								<div class="btn-wrp">
-				<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn">
+				<a href="" target="_blank" class="default-btn">
 					Shop now				</a>
 			</div>
 					
@@ -123,7 +123,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 </section>									</div>
 									<div class="item">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="window.open('','mywindow');" style="cursor: pointer;"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -139,7 +139,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 					</div>
 
 								<div class="btn-wrp">
-				<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn">
+				<a href="" target="_blank" class="default-btn">
 					Shop now				</a>
 			</div>
 					
@@ -147,7 +147,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 </section>									</div>
 									<div class="item">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="window.open('','mywindow');" style="cursor: pointer;"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -163,7 +163,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 					</div>
 
 								<div class="btn-wrp">
-				<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn">
+				<a href="" target="_blank" class="default-btn">
 					Shop now				</a>
 			</div>
 					
@@ -171,7 +171,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 </section>									</div>
 									<div class="item">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="window.open('','mywindow');" style="cursor: pointer;"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -187,7 +187,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 					</div>
 
 								<div class="btn-wrp">
-				<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn">
+				<a href="" target="_blank" class="default-btn">
 					Shop now				</a>
 			</div>
 					
@@ -195,7 +195,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 </section>									</div>
 									<div class="item">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="window.open('','mywindow');" style="cursor: pointer;"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -211,7 +211,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 					</div>
 
 								<div class="btn-wrp">
-				<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn">
+				<a href="" target="_blank" class="default-btn">
 					Shop now				</a>
 			</div>
 					
@@ -219,9 +219,9 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 </section>									</div>
 																	</div>
 								<script type="text/javascript" ><!--
-								$("#rgen-contentblocks-rgenLXDicl .widget-carousel").css({	opacity: 0 });
+								$("#rgen-contentblocks-rgenLg0dO0 .widget-carousel").css({	opacity: 0 });
 								$(document).ready(function() {
-									var obj = "#rgen-contentblocks-rgenLXDicl .widget-carousel";
+									var obj = "#rgen-contentblocks-rgenLg0dO0 .widget-carousel";
 									var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 									setTimeout(function () { widgetCarousel(obj, resObj); }, 100);
 								});

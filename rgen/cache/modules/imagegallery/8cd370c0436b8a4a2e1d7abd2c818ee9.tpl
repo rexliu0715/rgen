@@ -1,4 +1,4 @@
-<div id="rgen-imagegallery-rgenkk6Qfw" class="rgen-imagegallery imagegallery-rgO2R" data-pswp-uid="1">
+<div id="rgen-imagegallery-rgenzaMwOg" class="rgen-imagegallery imagegallery-rgO2R" data-pswp-uid="1">
 	<div class="mod-wrp container">
 						<h3 class="mod-hd">Image gallery</h3>
 				
@@ -13,7 +13,7 @@
 
 								
 
-																								<div class="gallery-normalgrid-0 rw eq3 d-eq3 t-eq3 mxl-eq3 msm-eq3 mxs-eq3 gt10 mb10" id="grid-rgen-imagegallery-rgenkk6Qfw_0" itemscope itemtype="http://schema.org/ImageGallery">
+																								<div class="gallery-normalgrid-0 rw eq3 d-eq3 t-eq3 mxl-eq3 msm-eq3 mxs-eq3 gt10 mb10" id="grid-rgen-imagegallery-rgenzaMwOg_0" itemscope itemtype="http://schema.org/ImageGallery">
 																											<div class="cl">
 										<figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 	<div class="overlay">
@@ -23,7 +23,7 @@
 							</a>
 					</span>
 	</div>
-	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/01-150x150.jpg" itemprop="thumbnail" alt="R.Gen - OpenCart Modern Store Design" class="img-responsive" />
+	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/01-150x150.jpg" itemprop="thumbnail" alt="en-gb - No data" class="img-responsive" />
 	</figure>									</div>
 																		<div class="cl">
 										<figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
@@ -34,7 +34,7 @@
 							</a>
 					</span>
 	</div>
-	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/02-150x150.jpg" itemprop="thumbnail" alt="R.Gen - OpenCart Modern Store Design" class="img-responsive" />
+	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/02-150x150.jpg" itemprop="thumbnail" alt="en-gb - No data" class="img-responsive" />
 		<figcaption>
 				<h3 itemprop="caption">R.Gen - OpenCart Modern Store Design</h3>
 						<p itemprop="description">R.Gen - OpenCart Modern Store Design</p>
@@ -49,7 +49,7 @@
 							</a>
 					</span>
 	</div>
-	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/04-150x150.jpg" itemprop="thumbnail" alt="R.Gen - OpenCart Modern Store Design" class="img-responsive" />
+	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/04-150x150.jpg" itemprop="thumbnail" alt="en-gb - No data" class="img-responsive" />
 		<figcaption>
 				<h3 itemprop="caption">R.Gen - OpenCart Modern Store Design</h3>
 						<p itemprop="description">R.Gen - OpenCart Modern Store Design</p>
@@ -64,7 +64,7 @@
 							</a>
 					</span>
 	</div>
-	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/06-150x150.jpg" itemprop="thumbnail" alt="R.Gen - OpenCart Modern Store Design" class="img-responsive" />
+	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/06-150x150.jpg" itemprop="thumbnail" alt="en-gb - No data" class="img-responsive" />
 		<figcaption>
 				<h3 itemprop="caption">R.Gen - OpenCart Modern Store Design</h3>
 						<p itemprop="description">R.Gen - OpenCart Modern Store Design</p>
@@ -79,7 +79,7 @@
 							</a>
 					</span>
 	</div>
-	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/07-150x150.jpg" itemprop="thumbnail" alt="R.Gen - OpenCart Modern Store Design" class="img-responsive" />
+	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/07-150x150.jpg" itemprop="thumbnail" alt="en-gb - No data" class="img-responsive" />
 		<figcaption>
 				<h3 itemprop="caption">R.Gen - OpenCart Modern Store Design</h3>
 						<p itemprop="description">R.Gen - OpenCart Modern Store Design</p>
@@ -94,7 +94,7 @@
 							</a>
 					</span>
 	</div>
-	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/09-150x150.jpg" itemprop="thumbnail" alt="R.Gen - OpenCart Modern Store Design" class="img-responsive" />
+	<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/gallery/09-150x150.jpg" itemprop="thumbnail" alt="en-gb - No data" class="img-responsive" />
 		<figcaption>
 				<h3 itemprop="caption">R.Gen - OpenCart Modern Store Design</h3>
 						<p itemprop="description">R.Gen - OpenCart Modern Store Design</p>
@@ -103,7 +103,7 @@
 																	</div>
 								<script>
 								jQuery(document).ready(function($) {
-									equalH('#rgen-imagegallery-rgenkk6Qfw #grid-rgen-imagegallery-rgenkk6Qfw_0', '#rgen-imagegallery-rgenkk6Qfw #grid-rgen-imagegallery-rgenkk6Qfw_0 > .cl');
+									equalH('#rgen-imagegallery-rgenzaMwOg #grid-rgen-imagegallery-rgenzaMwOg_0', '#rgen-imagegallery-rgenzaMwOg #grid-rgen-imagegallery-rgenzaMwOg_0 > .cl');
 								});
 								</script>
 								
@@ -122,6 +122,6 @@
 </div>
 <script>
 $(document).ready(function() {
-	photoSwipe_fn('#rgen-imagegallery-rgenkk6Qfw');
+	photoSwipe_fn('#rgen-imagegallery-rgenzaMwOg');
 });
 </script>

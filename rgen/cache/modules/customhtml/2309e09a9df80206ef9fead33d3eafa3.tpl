@@ -1,5 +1,5 @@
 
-<div id="rgen-customhtml-rgencTjgDV" class="rgen-customhtml customhtml-rgttE">
+<div id="rgen-customhtml-rgen2PPiAH" class="rgen-customhtml customhtml-rgttE">
 	<div class="mod-wrp container">
 		
 						
@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 								
 				
 								<div class="r-cl cl3 t-xl12">
-										<section class="mod-customhtml r-html"><a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" class="default-btn" style="display:block;margin: 35px 0 0 0; font-size: 18px; font-weight: 300; padding: 15px;">More details</a></section>	
+										<section class="mod-customhtml r-html"><a href="/" target="_blank" class="default-btn" style="display:block;margin: 35px 0 0 0; font-size: 18px; font-weight: 300; padding: 15px;">More details</a></section>	
 									</div>
 							</div>
 						

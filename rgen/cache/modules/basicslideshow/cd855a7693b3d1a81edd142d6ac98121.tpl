@@ -1,12 +1,12 @@
-<div id="rgen-basicslideshow-rgenVrPS5J" class="rgen-basicslideshow basicslideshow-rgN0C">
+<div id="rgen-basicslideshow-rgenbirgp6" class="rgen-basicslideshow basicslideshow-rgN0C">
 	<div>
 		<div class="slideshow-wrp dots-typ1 normal">
 			<div class="slideshow">
 								<div class="slide">
-										<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/banners/other-banners/376x510_1-376x510.jpg" alt="R.Gen - OpenCart Modern Store Design"/></a>
+										<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/banners/other-banners/376x510_1-376x510.jpg" alt="R.Gen - OpenCart Modern Store Design"/>
 									</div>
 								<div class="slide">
-										<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/banners/other-banners/376x510_2-376x510.jpg" alt="R.Gen - OpenCart Modern Store Design"/></a>
+										<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/banners/other-banners/376x510_2-376x510.jpg" alt="R.Gen - OpenCart Modern Store Design"/>
 									</div>
 							</div>
 		</div>
@@ -18,17 +18,17 @@
 $(document).ready(function(){
 
 		if ($('.ly-column').length == 0) {
-		$("#rgen-basicslideshow-rgenVrPS5J > div").addClass('container');
+		$("#rgen-basicslideshow-rgenbirgp6 > div").addClass('container');
 	};
 	
 	var win         = $(window);
 	var auto        = true;
 	var autostopped = false;
-	var container   = $("#rgen-basicslideshow-rgenVrPS5J .slideshow-wrp");
+	var container   = $("#rgen-basicslideshow-rgenbirgp6 .slideshow-wrp");
 
 	/* Default slide script
 	------------------------*/
-	var sudoSlider = $("#rgen-basicslideshow-rgenVrPS5J .slideshow").sudoSlider({
+	var sudoSlider = $("#rgen-basicslideshow-rgenbirgp6 .slideshow").sudoSlider({
 		responsive: true,
 		controlsAttr: 'class="owl-controls"',
 		effect: "random",

@@ -1,8 +1,8 @@
-<div id="rgen-gridmanager-rgenh2BJ0I" class="rgen-gridmanager gridmanager-rgpFy">
+<div id="rgen-gridmanager-rgenvIcfEm" class="rgen-gridmanager gridmanager-rgpFy">
 	<div class="mod-wrp container">
 		
 						
-				<section class="mod-customhtml t-html"><a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank" style="    display: inline-block;"><img src="image/catalog/rgen/demo06_images/other/great-deals.png" class="img-responsive"></a></section>	
+				<section class="mod-customhtml t-html"><a href="" target="_blank" style="    display: inline-block;"><img src="image/catalog/rgen/demo06_images/other/great-deals.png" class="img-responsive"></a></section>	
 				
 		<div class="gridmanager-mod-rw rw gt40">
 						
@@ -11,15 +11,15 @@
 					
 											<div class="rw gt20 mb0">
 														<div class="cl cl4 d-xl4 t-xl12 m-xl12 m-sm12 m-xs12" style="">
-								<div id="rgen-basicslideshow-rgenpG05j3" class="rgen-basicslideshow basicslideshow-rgN0C">
+								<div id="rgen-basicslideshow-rgenbTibgz" class="rgen-basicslideshow basicslideshow-rgN0C">
 	<div>
 		<div class="slideshow-wrp dots-typ1 normal">
 			<div class="slideshow">
 								<div class="slide">
-										<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/banners/other-banners/376x510_1-376x510.jpg" alt="R.Gen - OpenCart Modern Store Design"/></a>
+										<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/banners/other-banners/376x510_1-376x510.jpg" alt="R.Gen - OpenCart Modern Store Design"/>
 									</div>
 								<div class="slide">
-										<a href="http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS" target="_blank"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/banners/other-banners/376x510_2-376x510.jpg" alt="R.Gen - OpenCart Modern Store Design"/></a>
+										<img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/rgen/demo06_images/banners/other-banners/376x510_2-376x510.jpg" alt="R.Gen - OpenCart Modern Store Design"/>
 									</div>
 							</div>
 		</div>
@@ -31,17 +31,17 @@
 $(document).ready(function(){
 
 		if ($('.ly-column').length == 0) {
-		$("#rgen-basicslideshow-rgenpG05j3 > div").addClass('container');
+		$("#rgen-basicslideshow-rgenbTibgz > div").addClass('container');
 	};
 	
 	var win         = $(window);
 	var auto        = true;
 	var autostopped = false;
-	var container   = $("#rgen-basicslideshow-rgenpG05j3 .slideshow-wrp");
+	var container   = $("#rgen-basicslideshow-rgenbTibgz .slideshow-wrp");
 
 	/* Default slide script
 	------------------------*/
-	var sudoSlider = $("#rgen-basicslideshow-rgenpG05j3 .slideshow").sudoSlider({
+	var sudoSlider = $("#rgen-basicslideshow-rgenbTibgz .slideshow").sudoSlider({
 		responsive: true,
 		controlsAttr: 'class="owl-controls"',
 		effect: "random",
@@ -76,7 +76,7 @@ $(document).ready(function(){
 //--></script>
 							</div>
 														<div class="cl cl8 d-xl8 t-xl12 m-xl12 m-sm12 m-xs12" style="">
-								<div id="rgen-productgroups-rgenlOkAye" class="rgen-productgroups productgroups-rgBhu">
+								<div id="rgen-productgroups-rgenZMX7sJ" class="rgen-productgroups productgroups-rgBhu">
 	<div class="mod-wrp container">
 	
 			
@@ -86,23 +86,32 @@ $(document).ready(function(){
 		<div class="m-cl cl12 t-xl12">
 									
 			<div class="mod-content">
-								<div class="rw  eq3 d-eq3 t-eq3 mxl-eq2 msm-eq2 mxs-eq1 gt10 mb10 " id="grid-rgen-productgroups-rgenlOkAye_0">
-															<div class="cl">
+				
+								<div 
+					id            ="carousel-rgen-productgroups-rgenZMX7sJ_0"
+					class         ="widget-carousel ctrl-b " 
+					data-stpd     ="1" 
+					data-nav      ="false" 
+					data-dots     ="false" 
+					data-resitems ="4" 
+					data-res      ="true"  
+					data-margin   ="20">
+															<div class="item">
 						<div class="prd-block prd-block1">
 	
 		
 					
 	
 	<div class="image">
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA保濕眼部舒緩療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA保濕眼部舒緩療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/alqvimia/1-300x300.jpg" alt="ALQVIMIA保濕眼部舒緩療程" title="ALQVIMIA保濕眼部舒緩療程" class="img-responsive" /></a>
 	</div>
 	
 	<div class="info-wrp">
 				<div class="price-wrp">
-			<p class="vm price grid-on list-on normal-on">
+			<p class="vm price grid-off list-on normal-on">
 				<span class="vm-item">
-										<span class="price-new">$0</span>
+										<span class="price-new">$990</span>
 											
 				</span>
 			</p>
@@ -110,38 +119,38 @@ $(document).ready(function(){
 		
 		<div class="info">
 			<h4 class="name">
-				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="></a>
-							</h4>
+				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA保濕眼部舒緩療程">ALQVIMIA保濕眼部舒緩療程</a>
+											</h4>
 			
-						<div class="description grid-on list-on normal-off">..</div>
+						<div class="description grid-on list-on normal-off">而Alqvimia保濕眼部舒緩療程﹐採用種植在加利福尼亞州的甜橙﹐主要能保濕提供營養及減淡因缺水而形成的紋理﹐而且甜橙能平衡情緒﹐使睡眠情況能改善。Step		1) 清潔眼部		2) 爽膚		3) 眼..</div>
 			<div class="buy-option">
-								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
+								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('59', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
 				
 				<ul>
-					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=">More info</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="wishlist.add('');">Add to wish list</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="compare.add('');">Add to Compare</a></li>
+					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA保濕眼部舒緩療程">More info</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="wishlist.add('59');">Add to wish list</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="compare.add('59');">Add to Compare</a></li>
 				</ul>
 			</div>
 		</div>
 	</div>
 </div>					</div>
-										<div class="cl">
+										<div class="item">
 						<div class="prd-block prd-block1">
 	
 		
 					
 	
 	<div class="image">
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA埃及妖后眼部療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA埃及妖后眼部療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/alqvimia/8-300x300.jpg" alt="ALQVIMIA埃及妖后眼部療程" title="ALQVIMIA埃及妖后眼部療程" class="img-responsive" /></a>
 	</div>
 	
 	<div class="info-wrp">
 				<div class="price-wrp">
-			<p class="vm price grid-on list-on normal-on">
+			<p class="vm price grid-off list-on normal-on">
 				<span class="vm-item">
-										<span class="price-new">$0</span>
+										<span class="price-new">$1,280</span>
 											
 				</span>
 			</p>
@@ -149,38 +158,38 @@ $(document).ready(function(){
 		
 		<div class="info">
 			<h4 class="name">
-				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="></a>
-							</h4>
+				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA埃及妖后眼部療程">ALQVIMIA埃及妖后眼部療程</a>
+											</h4>
 			
-						<div class="description grid-on list-on normal-off">..</div>
+						<div class="description grid-on list-on normal-off">而Alqvimia埃及妖后眼部療程﹐主要使用埃及妖后精華油﹐有優質的乳香﹐沒藥及苦橙葉等香薰調配﹐令肌膚細緻賦活力﹐深層滋潤、活躍細胞、刺激細胞更生﹐更可舒緩壓力﹐令人充滿自信及魅力﹐適合任何膚質的都..</div>
 			<div class="buy-option">
-								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
+								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('99', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
 				
 				<ul>
-					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=">More info</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="wishlist.add('');">Add to wish list</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="compare.add('');">Add to Compare</a></li>
+					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/ALQVIMIA埃及妖后眼部療程">More info</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="wishlist.add('99');">Add to wish list</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="compare.add('99');">Add to Compare</a></li>
 				</ul>
 			</div>
 		</div>
 	</div>
 </div>					</div>
-										<div class="cl">
+										<div class="item">
 						<div class="prd-block prd-block1">
 	
 		
 					
 	
 	<div class="image">
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/DH-HIFU-完美身段塑型技術BODY&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/DH-HIFU-完美身段塑型技術BODY"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/dh-hifu/2-300x300.jpg" alt="DH HIFU 完美身段塑型技術BODY" title="DH HIFU 完美身段塑型技術BODY" class="img-responsive" /></a>
 	</div>
 	
 	<div class="info-wrp">
 				<div class="price-wrp">
-			<p class="vm price grid-on list-on normal-on">
+			<p class="vm price grid-off list-on normal-on">
 				<span class="vm-item">
-										<span class="price-new">$0</span>
+										<span class="price-new">$40,000</span>
 											
 				</span>
 			</p>
@@ -188,38 +197,38 @@ $(document).ready(function(){
 		
 		<div class="info">
 			<h4 class="name">
-				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="></a>
-							</h4>
+				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/DH-HIFU-完美身段塑型技術BODY">DH HIFU 完美身段塑型技術BODY</a>
+											</h4>
 			
-						<div class="description grid-on list-on normal-off">..</div>
+						<div class="description grid-on list-on normal-off">2016全新第三代HIFU,擁有雙速雙軌技術﹐Hifu全球唯一無創複合拉皮技術 &lt;不開刀,不出血,無疤痕 &gt;HiFu是以螺旋線發放能量	，同時一般機頭只有25 mm﹐已新一代HiFu擁有3..</div>
 			<div class="buy-option">
-								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
+								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('64', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
 				
 				<ul>
-					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=">More info</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="wishlist.add('');">Add to wish list</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="compare.add('');">Add to Compare</a></li>
+					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/DH-HIFU-完美身段塑型技術BODY">More info</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="wishlist.add('64');">Add to wish list</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="compare.add('64');">Add to Compare</a></li>
 				</ul>
 			</div>
 		</div>
 	</div>
 </div>					</div>
-										<div class="cl">
+										<div class="item">
 						<div class="prd-block prd-block1">
 	
 		
 					
 	
 	<div class="image">
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/DH-HIFU-雙軌下巴擊脂療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/DH-HIFU-雙軌下巴擊脂療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/dh-hifu/4-300x300.jpg" alt="DH HIFU 雙軌下巴擊脂療程" title="DH HIFU 雙軌下巴擊脂療程" class="img-responsive" /></a>
 	</div>
 	
 	<div class="info-wrp">
 				<div class="price-wrp">
-			<p class="vm price grid-on list-on normal-on">
+			<p class="vm price grid-off list-on normal-on">
 				<span class="vm-item">
-										<span class="price-new">$0</span>
+										<span class="price-new">$20,000</span>
 											
 				</span>
 			</p>
@@ -227,38 +236,38 @@ $(document).ready(function(){
 		
 		<div class="info">
 			<h4 class="name">
-				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="></a>
-							</h4>
+				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/DH-HIFU-雙軌下巴擊脂療程">DH HIFU 雙軌下巴擊脂療程</a>
+											</h4>
 			
-						<div class="description grid-on list-on normal-off">..</div>
+						<div class="description grid-on list-on normal-off">以雙速雙軌技術﹐採用非入侵性高能量聚焦超聲波﹐配合擁有嶄新設計的(Dh獨家雙軌頭)﹐特設兩個發放能量的傳導器﹐於一個治療頭之中﹐將能量分拆成兩段同步發放﹐以更強的能量煥發更佳效果(有別於)現時市場上的..</div>
 			<div class="buy-option">
-								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
+								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('66', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
 				
 				<ul>
-					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=">More info</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="wishlist.add('');">Add to wish list</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="compare.add('');">Add to Compare</a></li>
+					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/DH-HIFU-雙軌下巴擊脂療程">More info</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="wishlist.add('66');">Add to wish list</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="compare.add('66');">Add to Compare</a></li>
 				</ul>
 			</div>
 		</div>
 	</div>
 </div>					</div>
-										<div class="cl">
+										<div class="item">
 						<div class="prd-block prd-block1">
 	
 		
 					
 	
 	<div class="image">
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Eximia全方位極速7日瘦&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Eximia全方位極速7日瘦"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/eximia/1-300x300.jpg" alt="Eximia 全方位極速7日瘦" title="Eximia 全方位極速7日瘦" class="img-responsive" /></a>
 	</div>
 	
 	<div class="info-wrp">
 				<div class="price-wrp">
-			<p class="vm price grid-on list-on normal-on">
+			<p class="vm price grid-off list-on normal-on">
 				<span class="vm-item">
-										<span class="price-new">$0</span>
+										<span class="price-new">$7,800</span>
 											
 				</span>
 			</p>
@@ -266,38 +275,38 @@ $(document).ready(function(){
 		
 		<div class="info">
 			<h4 class="name">
-				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="></a>
-							</h4>
+				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Eximia全方位極速7日瘦">Eximia 全方位極速7日瘦</a>
+											</h4>
 			
-						<div class="description grid-on list-on normal-off">..</div>
+						<div class="description grid-on list-on normal-off">Eximia 七日瘦在意大利設計經過嚴謹的生產過程, 擁有獨家技術精確有序，有效刺激細胞代謝，自然激發皮膚的自我再生能力，持續消除脂肪贅肉，改善皮膚鬆弛和老化問題。再配合LIPOLIFTING-革命性..</div>
 			<div class="buy-option">
-								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
+								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('61', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
 				
 				<ul>
-					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=">More info</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="wishlist.add('');">Add to wish list</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="compare.add('');">Add to Compare</a></li>
+					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Eximia全方位極速7日瘦">More info</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="wishlist.add('61');">Add to wish list</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="compare.add('61');">Add to Compare</a></li>
 				</ul>
 			</div>
 		</div>
 	</div>
 </div>					</div>
-										<div class="cl">
+										<div class="item">
 						<div class="prd-block prd-block1">
 	
 		
 					
 	
 	<div class="image">
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-on list-on normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
-		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="><img src="" alt="" title="" class="img-responsive" /></a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Eximia-4極緊緻膠原再生面部療程&urltype=quickview" data-toggle="tooltip" title="en-gb - No data" class="quickview-link grid-off list-off normal-off"><i class="fa fa-eye"></i> en-gb - No data</a>
+		<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Eximia-4極緊緻膠原再生面部療程"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/product/eximia/3-300x300.jpg" alt="Eximia 4極緊緻膠原再生面部療程" title="Eximia 4極緊緻膠原再生面部療程" class="img-responsive" /></a>
 	</div>
 	
 	<div class="info-wrp">
 				<div class="price-wrp">
-			<p class="vm price grid-on list-on normal-on">
+			<p class="vm price grid-off list-on normal-on">
 				<span class="vm-item">
-										<span class="price-new">$0</span>
+										<span class="price-new">$5,800</span>
 											
 				</span>
 			</p>
@@ -305,29 +314,32 @@ $(document).ready(function(){
 		
 		<div class="info">
 			<h4 class="name">
-				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id="></a>
-							</h4>
+				<a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Eximia-4極緊緻膠原再生面部療程">Eximia 4極緊緻膠原再生面部療程</a>
+											</h4>
 			
-						<div class="description grid-on list-on normal-off">..</div>
+						<div class="description grid-on list-on normal-off">Eximia 七日瘦在意大利設計經過嚴謹的生產過程, 擁有獨家技術精確有序，有效刺激細胞代謝，自然激發皮膚的自我再生能力﹐改善皮膚鬆弛和老化問題。以Lipololifting stimulation ..</div>
 			<div class="buy-option">
-								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
+								<a class="vm btn btn-cart grid-on list-on normal-on" data-toggle="tooltip" title="Add to Cart" onclick="cart.add('62', '1');"><i class="vm-item glyphicon glyphicon-shopping-cart"></i></a>
 				
 				<ul>
-					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/index.php?route=product/product&amp;product_id=">More info</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="wishlist.add('');">Add to wish list</a></li>
-					<li class=" grid-on list-on normal-off"><a onclick="compare.add('');">Add to Compare</a></li>
+					<li><a href="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/Eximia-4極緊緻膠原再生面部療程">More info</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="wishlist.add('62');">Add to wish list</a></li>
+					<li class=" grid-off list-off normal-off"><a onclick="compare.add('62');">Add to Compare</a></li>
 				</ul>
 			</div>
 		</div>
 	</div>
 </div>					</div>
 									</div>
-								<script>
-				jQuery(document).ready(function($) {
-					equalH('#rgen-productgroups-rgenlOkAye #grid-rgen-productgroups-rgenlOkAye_0', '#rgen-productgroups-rgenlOkAye #grid-rgen-productgroups-rgenlOkAye_0 > .cl');
+				<script type="text/javascript" ><!--
+				$("#rgen-productgroups-rgenZMX7sJ #carousel-rgen-productgroups-rgenZMX7sJ_0").css({	opacity: 0 });
+				$(document).ready(function() {
+					var obj = "#rgen-productgroups-rgenZMX7sJ #carousel-rgen-productgroups-rgenZMX7sJ_0";
+					var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
+					var settings = { autoHeight: false }
+					setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
 				});
-				</script>
-								
+				//--></script>
 							</div>
 		</div>
 			</div>
@@ -338,14 +350,14 @@ $(document).ready(function(){
 							</div>
 													</div>
 										<script>
-					$("#rgen-gridmanager-rgenh2BJ0I").css({opacity: 0});
+					$("#rgen-gridmanager-rgenvIcfEm").css({opacity: 0});
 					jQuery(document).ready(function($) {
-						$("#rgen-gridmanager-rgenh2BJ0I").animate({opacity: 1}, 1000, function () {
-							equalH('#rgen-gridmanager-rgenh2BJ0I .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgenh2BJ0I .gridmanager-mod-content > .rw > .cl');
+						$("#rgen-gridmanager-rgenvIcfEm").animate({opacity: 1}, 1000, function () {
+							equalH('#rgen-gridmanager-rgenvIcfEm .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgenvIcfEm .gridmanager-mod-content > .rw > .cl');
 						});
 					});
 					jQuery(window).resize(function($) {
-						equalH('#rgen-gridmanager-rgenh2BJ0I .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgenh2BJ0I .gridmanager-mod-content > .rw > .cl');
+						equalH('#rgen-gridmanager-rgenvIcfEm .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgenvIcfEm .gridmanager-mod-content > .rw > .cl');
 					});
 					</script>
 					

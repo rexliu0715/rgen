@@ -1,4 +1,4 @@
-<div id="rgen-contentblocks-rgen2MvVpt" class="rgen-contentblocks contentblocks-rgtZs">
+<div id="rgen-contentblocks-rgencQeRjY" class="rgen-contentblocks contentblocks-rgtZs">
 	<div class="mod-wrp container">
 		
 						
@@ -15,7 +15,7 @@
 																<div class="contentblock-grid rw eq1 d-eq1 t-eq1 mxl-eq1 msm-eq1 mxs-eq1 gt10 mb10">
 																		<div class="cl">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="location.href='';"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -32,7 +32,7 @@
 </section>									</div>
 									<div class="cl">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="location.href='';"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -49,7 +49,7 @@
 </section>									</div>
 									<div class="cl">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="location.href='';"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -66,7 +66,7 @@
 </section>									</div>
 									<div class="cl">
 										<section class="ctn-block ctn-block1 "
-					onclick="window.open('http://themeforest.net/item/rgen-opencart-modern-store-design/2699592?ref=R_GENESIS','mywindow');" style="cursor: pointer;"
+					onclick="location.href='';"
 			>
 	<div class="ctn-inner-wrp">
 
@@ -84,7 +84,7 @@
 																	</div>
 																<script>
 								jQuery(document).ready(function($) {
-									equalH('#rgen-contentblocks-rgen2MvVpt .contentblock-grid', '#rgen-contentblocks-rgen2MvVpt .contentblock-grid > .cl');
+									equalH('#rgen-contentblocks-rgencQeRjY .contentblock-grid', '#rgen-contentblocks-rgencQeRjY .contentblock-grid > .cl');
 								});
 								</script>
 																
