@@ -2,7 +2,7 @@
 class ControllerProductSearch extends Controller {
 	public function index() {
 		// redirect home
-		$this->redirect($this->url->link('/'));
+		$this->redirect($this->url->link('/index.php'));
 
 		$this->load->language('product/search');
 
