@@ -1,6 +1,9 @@
 <?php
 class ControllerProductSearch extends Controller {
 	public function index() {
+		// common search redirect to home
+		$this->response->redirect($this->url->link('common/home', '', ''));
+
 		$this->load->language('product/search');
 
 		$this->load->model('catalog/category');
