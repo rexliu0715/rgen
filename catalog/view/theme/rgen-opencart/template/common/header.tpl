@@ -169,7 +169,7 @@ $body_class .= $route == 'common/home' ? ' home_pg' : ' inner_pg';
 $topbar   = isset($rgen['topbar_style']) ? 'topbar'.$rgen['topbar_style'] : 'topbar1';
 $topbar_w = isset($rgen['topbar_layout']) ? $rgen['topbar_layout'].' ' : 'bx ';
 $logo_in  = isset($rgen['topbar'.$topbar.'_general']['logo_in_menu']) ? $rgen['topbar'.$topbar.'_general']['logo_in_menu'] : 'y';
-$logo_w   = isset($rgen['topbar'.$topbar.'_general']['logo_w']) ? $rgen['topbar'.$topbar.'_general']['logo_w'] : 190; ?>
+$logo_w   = isset($rgen['topbar'.$topbar.'_general']['logo_w']) ? $rgen['topbar'.$topbar.'_general']['logo_w'] : 250; ?>
 <header class="topbar-<?php echo $topbar; ?>">
 	<?php include $rgen_config->{$topbar}; ?>
 
