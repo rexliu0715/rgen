@@ -930,8 +930,6 @@
 		 * @param $data
 		 */
 		public function updateSlideFromData($data, $slideSettings){
-			// var_dump($data);
-
 			$slideID = UniteFunctionsRev::getVal($data, "slideid");
 			$this->initByID($slideID);						
 			

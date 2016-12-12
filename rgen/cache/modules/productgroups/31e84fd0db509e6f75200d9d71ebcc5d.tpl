@@ -1,4 +1,4 @@
-<div id="rgen-productgroups-rgenmZ6GlP" class="rgen-productgroups productgroups-rgj9L">
+<div id="rgen-productgroups-rgenkiG33t" class="rgen-productgroups productgroups-rgj9L">
 	<div class="mod-wrp container">
 	
 			<h3 class="mod-hd">Product group module</h3>
@@ -30,7 +30,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenmZ6GlP_0"
+								id            ="carousel-rgen-productgroups-rgenkiG33t_0"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -39,7 +39,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-res      ="true" 
 								data-margin   ="10">
 																								<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenaDNrGE">
+									<div class="prd-block prd-block3" id="prd-block3-rgen3MKJPK">
 	
 	
 						
@@ -80,7 +80,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenZUbPzW">
+									<div class="prd-block prd-block3" id="prd-block3-rgenymg5Rl">
 	
 	
 						
@@ -121,7 +121,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenzznJGj">
+									<div class="prd-block prd-block3" id="prd-block3-rgenWYNyn8">
 	
 	
 						
@@ -162,7 +162,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenBfHaKu">
+									<div class="prd-block prd-block3" id="prd-block3-rgenkJ9950">
 	
 	
 						
@@ -203,7 +203,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgen77ueNQ">
+									<div class="prd-block prd-block3" id="prd-block3-rgenJqjptm">
 	
 	
 						
@@ -244,7 +244,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgen3XtRo9">
+									<div class="prd-block prd-block3" id="prd-block3-rgenSx9DgY">
 	
 	
 						
@@ -285,7 +285,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenvn4HdD">
+									<div class="prd-block prd-block3" id="prd-block3-rgennPkEUb">
 	
 	
 						
@@ -326,7 +326,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenDMd1wT">
+									<div class="prd-block prd-block3" id="prd-block3-rgenZQ9Npx">
 	
 	
 						
@@ -368,15 +368,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								</div>
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenmZ6GlP .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenkiG33t .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenmZ6GlP .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenkiG33t .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenmZ6GlP .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenkiG33t .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
@@ -386,7 +386,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenmZ6GlP_1"
+								id            ="carousel-rgen-productgroups-rgenkiG33t_1"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -396,15 +396,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-margin   ="10">
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenmZ6GlP .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenkiG33t .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenmZ6GlP .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenkiG33t .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenmZ6GlP .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenkiG33t .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
@@ -414,7 +414,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenmZ6GlP_2"
+								id            ="carousel-rgen-productgroups-rgenkiG33t_2"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -424,15 +424,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-margin   ="10">
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenmZ6GlP .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenkiG33t .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenmZ6GlP .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenkiG33t .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenmZ6GlP .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenkiG33t .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
@@ -442,7 +442,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 												<div class="tab-pane">
 							
 														<div 
-								id            ="carousel-rgen-productgroups-rgenmZ6GlP_3"
+								id            ="carousel-rgen-productgroups-rgenkiG33t_3"
 								class         ="widget-carousel ctrl-b " 
 								data-stpd     ="1" 
 								data-nav      ="true" 
@@ -451,7 +451,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								data-res      ="true" 
 								data-margin   ="10">
 																								<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenl782iS">
+									<div class="prd-block prd-block3" id="prd-block3-rgenVJg4Tm">
 	
 	
 						
@@ -492,7 +492,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenwpZ0DM">
+									<div class="prd-block prd-block3" id="prd-block3-rgen4CMo2g">
 	
 	
 						
@@ -533,7 +533,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenQGKkx8">
+									<div class="prd-block prd-block3" id="prd-block3-rgenKUNTy3">
 	
 	
 						
@@ -574,7 +574,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenu3wyKK">
+									<div class="prd-block prd-block3" id="prd-block3-rgenRVTczN">
 	
 	
 						
@@ -615,7 +615,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenbnwop3">
+									<div class="prd-block prd-block3" id="prd-block3-rgenozEym3">
 	
 	
 						
@@ -656,7 +656,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgeniKbqMt">
+									<div class="prd-block prd-block3" id="prd-block3-rgen5iNmmG">
 	
 	
 						
@@ -697,7 +697,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgenjiTjjw">
+									<div class="prd-block prd-block3" id="prd-block3-rgenIrjuPl">
 	
 	
 						
@@ -738,7 +738,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 
 								</div>
 																<div class="item">
-									<div class="prd-block prd-block3" id="prd-block3-rgen6adQuL">
+									<div class="prd-block prd-block3" id="prd-block3-rgenLAgyuO">
 	
 	
 						
@@ -780,15 +780,15 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 								</div>
 															</div>
 							<script type="text/javascript" ><!--
-							$("#rgen-productgroups-rgenmZ6GlP .tab-container").on('click', '.tab-item a', function(event) {
+							$("#rgen-productgroups-rgenkiG33t .tab-container").on('click', '.tab-item a', function(event) {
 								event.preventDefault();
 								var obj = $(this).attr('href') + " .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								if (!$(obj).hasClass('owl-loaded')) { widgetCarousel(obj, resObj); };
 							});
-							$("#rgen-productgroups-rgenmZ6GlP .tab-pane.active .widget-carousel").css({	opacity: 0 });
+							$("#rgen-productgroups-rgenkiG33t .tab-pane.active .widget-carousel").css({	opacity: 0 });
 							$(document).ready(function() {
-								var obj = "#rgen-productgroups-rgenmZ6GlP .tab-pane.active .widget-carousel";
+								var obj = "#rgen-productgroups-rgenkiG33t .tab-pane.active .widget-carousel";
 								var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 								var settings = { autoHeight: false };
 								setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
