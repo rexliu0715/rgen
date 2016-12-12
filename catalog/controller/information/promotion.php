@@ -8,24 +8,20 @@ class ControllerInformationPromotion extends Controller {
 		$this->document->setTitle($this->language->get('heading_title'));
 
 		if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validate()) {
-
 			$this->load->model('promotion/promotion');
 
 			$promotion_id = $this->model_promotion_promotion->addGuest($this->request->post);
 
 			$this->session->data['success'] = $this->language->get('text_success');
 			// Add to activity log
-			if ($this->config->get('config_promotion_activity')) {
-				$this->load->model('promotion/promotion');
+			$this->load->model('promotion/promotion');
 
-				$activity_data = array(
-					'promotion_id'	=> $promotion_id,
-					'name'         => $this->request->post['email'] . ' ' . $this->request->post['name']
-				);
+			$activity_data = array(
+				'promotion_id'	=> $promotion_id,
+				'name'         => $this->request->post['email'] . ' ' . $this->request->post['name']
+			);
 
-				$this->model_promotion_promotion->addActivity('promotion_guest', $activity_data);
-			}
-
+			$this->model_promotion_promotion->addActivity('promotion_guest_register', $activity_data);
 
 			$this->response->redirect($this->url->link('information/promotion/success'));
 		}
@@ -176,7 +172,7 @@ class ControllerInformationPromotion extends Controller {
 			$this->error['name'] = $this->language->get('error_name');
 		}
 
-		if ((utf8_strlen($this->request->post['identity_card']) < 0) || (utf8_strlen($this->request->post['identity_card']) > 4)) {
+		if ((utf8_strlen($this->request->post['identity_card']) < 3) || (utf8_strlen($this->request->post['identity_card']) > 5)) {
 			$this->error['identity_card'] = $this->language->get('error_identity_card');
 		}
 

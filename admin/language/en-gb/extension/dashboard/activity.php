@@ -25,6 +25,7 @@ $_['text_affiliate_login']         = '<a href="affiliate_id=%d">%s</a> logged in
 $_['text_affiliate_password']      = '<a href="affiliate_id=%d">%s</a> updated their account password.';
 $_['text_affiliate_payment']       = '<a href="affiliate_id=%d">%s</a> updated their payment details.';
 $_['text_affiliate_register']      = '<a href="affiliate_id=%d">%s</a> registered for a new account.';
+$_['text_promotion_guest_register']      = '<a href="guest_id=%d">%s</a> registered for a new promotion.';
 
 // Entry
 $_['entry_status']                 = 'Status';
