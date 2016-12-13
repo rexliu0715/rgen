@@ -1,4 +1,4 @@
-<div id="rgen-productgroups-rgenMENudQ" class="rgen-productgroups productgroups-rgBhu">
+<div id="rgen-productgroups-rgenhaiOnC" class="rgen-productgroups productgroups-rgBhu">
 	<div class="mod-wrp container">
 	
 			
@@ -10,7 +10,7 @@
 			<div class="mod-content">
 				
 								<div 
-					id            ="carousel-rgen-productgroups-rgenMENudQ_0"
+					id            ="carousel-rgen-productgroups-rgenhaiOnC_0"
 					class         ="widget-carousel ctrl-b " 
 					data-stpd     ="1" 
 					data-nav      ="false" 
@@ -254,9 +254,9 @@
 </div>					</div>
 									</div>
 				<script type="text/javascript" ><!--
-				$("#rgen-productgroups-rgenMENudQ #carousel-rgen-productgroups-rgenMENudQ_0").css({	opacity: 0 });
+				$("#rgen-productgroups-rgenhaiOnC #carousel-rgen-productgroups-rgenhaiOnC_0").css({	opacity: 0 });
 				$(document).ready(function() {
-					var obj = "#rgen-productgroups-rgenMENudQ #carousel-rgen-productgroups-rgenMENudQ_0";
+					var obj = "#rgen-productgroups-rgenhaiOnC #carousel-rgen-productgroups-rgenhaiOnC_0";
 					var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 					var settings = { autoHeight: false }
 					setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);

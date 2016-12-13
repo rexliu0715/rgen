@@ -1,4 +1,4 @@
-<div id="rgen-contentblocks-rgenbXmrsg" class="rgen-contentblocks contentblocks-rgQtX">
+<div id="rgen-contentblocks-rgenQyOetk" class="rgen-contentblocks contentblocks-rgQtX">
 	<div class="mod-wrp container">
 		
 						
@@ -20,7 +20,7 @@
 
 				
 									
-								<figure class="image"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/promotion/1-250x250.jpg" alt="en - No data"></figure>
+								<figure class="image"><img src="http://local.tridacnabeauty.com/image/cache/catalog/promotion/1-250x250.jpg" alt="en - No data"></figure>
 				
 							
 		<div class="text-wrp">
@@ -37,7 +37,7 @@
 
 				
 									
-								<figure class="image"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/promotion/11-250x250.jpg" alt="en - No data"></figure>
+								<figure class="image"><img src="http://local.tridacnabeauty.com/image/cache/catalog/promotion/11-250x250.jpg" alt="en - No data"></figure>
 				
 							
 		<div class="text-wrp">
@@ -54,7 +54,7 @@
 
 				
 									
-								<figure class="image"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/promotion/10-250x250.jpg" alt="en - No data"></figure>
+								<figure class="image"><img src="http://local.tridacnabeauty.com/image/cache/catalog/promotion/10-250x250.jpg" alt="en - No data"></figure>
 				
 							
 		<div class="text-wrp">
@@ -71,7 +71,7 @@
 
 				
 									
-								<figure class="image"><img src="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/cache/catalog/promotion/5-250x250.jpg" alt="en - No data"></figure>
+								<figure class="image"><img src="http://local.tridacnabeauty.com/image/cache/catalog/promotion/5-250x250.jpg" alt="en - No data"></figure>
 				
 							
 		<div class="text-wrp">
@@ -84,7 +84,7 @@
 																	</div>
 																<script>
 								jQuery(document).ready(function($) {
-									equalH('#rgen-contentblocks-rgenbXmrsg .contentblock-grid', '#rgen-contentblocks-rgenbXmrsg .contentblock-grid > .cl');
+									equalH('#rgen-contentblocks-rgenQyOetk .contentblock-grid', '#rgen-contentblocks-rgenQyOetk .contentblock-grid > .cl');
 								});
 								</script>
 																

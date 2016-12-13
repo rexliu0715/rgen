@@ -89,8 +89,20 @@ include $rgen_config->layout_top;
 				</div>
 			  </div>
 
+              <div class="form-group">
+                <label class="col-sm-2 control-label" for="input-booking_date"><?php echo $entry_booking_date; ?></label>
+                <div class="col-sm-10">
+                	<div class="input-group hasDatepicker">
+	                  <input type="text" name="booking_date" value="<?php echo $booking_date; ?>" placeholder="YYYY-MM-DD" data-date-format="YYYY-MM-DD" id="input-booking_date" class="form-control" />
+					  <span class="input-group-btn">
+					  <button type="button" class="btn btn-default"><i class="fa fa-calendar"></i></button>
+					  </span>
+                	</div>
+              	</div>
+              </div>
+
 			    <!-- Date -->
-			  <div class="form-group required">
+<!-- 			  <div class="form-group required">
 				<label class="col-sm-2 control-label" for="input-date-month"><?php echo $entry_date; ?></label>
 				<div class="col-sm-10">
 					<div class="row">
@@ -162,7 +174,7 @@ include $rgen_config->layout_top;
 				  <?php } ?>
 				</div>
 			  </div>
-
+ -->
 			  <!-- Time -->
 			  <div class="form-group required">
 				<label class="col-sm-2 control-label" for="input-date-time"><?php echo $entry_date_time; ?></label>
@@ -214,6 +226,15 @@ include $rgen_config->layout_top;
 	</div>
 </div>
 
+<script type="text/javascript" src="catalog/view/javascript/jquery/datetimepicker/moment.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	$('.hasDatepicker').datetimepicker({
+		pickTime: false
+	});
+});
+</script>
 <?php 
 	include $rgen_config->layout_bottom;
 	echo $footer;

@@ -18,7 +18,7 @@ class ControllerInformationPromotion extends Controller {
 
 			$activity_data = array(
 				'promotion_id'	=> $promotion_id,
-				'name'         => $this->request->post['email'] . ' ' . $this->request->post['name']
+				'name'         => $this->request->post['name']
 			);
 
 			$this->model_promotion_promotion->addActivity('promotion_guest_register', $activity_data);
@@ -43,7 +43,7 @@ class ControllerInformationPromotion extends Controller {
 		$data['text_promotion_title'] = $this->language->get('text_promotion_title');
 		$data['text_promotion_header'] = $this->language->get('text_promotion_header');
 		$data['text_promotion'] = $this->language->get('text_promotion');
-		$data['text_booking'] = $this->language->get('text_booking');
+		$data['text_booking_date'] = $this->language->get('text_booking_date');
 		$data['text_address'] = $this->language->get('text_address');
 		$data['text_telephone'] = $this->language->get('text_telephone');
 		$data['text_fax'] = $this->language->get('text_fax');
@@ -63,10 +63,7 @@ class ControllerInformationPromotion extends Controller {
 		$data['entry_email'] = $this->language->get('entry_email');
 		$data['entry_age']	= $this->language->get('entry_age');
 		$data['entry_sex']	= $this->language->get('entry_sex');
-		$data['entry_date']	= $this->language->get('entry_date');
-		$data['entry_date_day']	= $this->language->get('entry_date_day');
-		$data['entry_date_month']	= $this->language->get('entry_date_month');
-		$data['entry_date_year']	= $this->language->get('entry_date_year');
+		$data['entry_booking_date']	= $this->language->get('entry_booking_date');
 		$data['entry_date_time']	= $this->language->get('entry_date_time');
 		$data['entry_terms']	= $this->language->get('entry_terms');
 
@@ -103,6 +100,12 @@ class ControllerInformationPromotion extends Controller {
 			$data['error_telephone'] = $this->error['telephone'];
 		} else {
 			$data['error_telephone'] = '';
+		}
+
+		if (isset($this->error['booking_date'])) {
+			$data['error_booking_date'] = $this->error['booking_date'];
+		} else {
+			$data['error_booking_date'] = '';
 		}
 
 		$data['button_submit'] = $this->language->get('button_submit');
@@ -144,10 +147,10 @@ class ControllerInformationPromotion extends Controller {
 		}
 
 		// Age
-		if (isset($this->request->post['age'])) {
-			$data['age'] = $this->request->post['age'];
+		if (isset($this->request->post['booking_date'])) {
+			$data['booking_date'] = $this->request->post['booking_date'];
 		} else {
-			$data['age'] = '';
+			$data['booking_date'] = '';
 		}
 
 		// Captcha
@@ -184,16 +187,8 @@ class ControllerInformationPromotion extends Controller {
 			$this->error['telephone'] = $this->language->get('error_telephone');
 		}
 
-		if ($this->request->post['date_day'] == -1) {
-			$this->error['date_day'] = $this->language->get('error_date_day');
-		}
-
-		if ($this->request->post['date_month'] == -1) {
-			$this->error['date_month'] = $this->language->get('error_date_month');
-		}
-
-		if ($this->request->post['date_year'] == -1) {
-			$this->error['date_year'] = $this->language->get('error_date_year');
+		if ($this->request->post['booking_date'] == '') {
+			$this->error['booking_date'] = $this->language->get('error_booking_date');
 		}
 
 		if ($this->request->post['date_time'] == -1) {

@@ -112,6 +112,7 @@ class ControllerExtensionDashboardActivity extends Controller {
 		$results = $this->model_report_activity->getActivities();
 
 		foreach ($results as $result) {
+
 			$comment = vsprintf($this->language->get('text_' . $result['key']), json_decode($result['data'], true));
 
 			$find = array(
@@ -127,7 +128,7 @@ class ControllerExtensionDashboardActivity extends Controller {
 				$this->url->link('sale/order/info', 'token=' . $this->session->data['token'] . '&order_id=', true),
 				$this->url->link('marketing/affiliate/edit', 'token=' . $this->session->data['token'] . '&affiliate_id=', true),
 				$this->url->link('sale/return/edit', 'token=' . $this->session->data['token'] . '&return_id=', true),
-				$this->url->link('promotion/guest/edit', 'token=' . $this->session->data['token'] . '&guest_id=', true)
+				$this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . '&guest_id=', true)
 			);
 
 			$data['activities'][] = array(
