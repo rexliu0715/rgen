@@ -38,8 +38,8 @@ class ControllerPromotionGuest extends Controller {
 	// 			$url .= '&filter_telephone=' . $this->request->get['filter_telephone'];
 	// 		}
 
-	// 		if (isset($this->request->get['filter_date_added'])) {
-	// 			$url .= '&filter_date_added=' . $this->request->get['filter_date_added'];
+	// 		if (isset($this->request->get['filter_booking_date'])) {
+	// 			$url .= '&filter_booking_date=' . $this->request->get['filter_booking_date'];
 	// 		}
 
 	// 		if (isset($this->request->get['sort'])) {
@@ -86,8 +86,8 @@ class ControllerPromotionGuest extends Controller {
 	// 			$url .= '&filter_telephone=' . $this->request->get['filter_telephone'];
 	// 		}
 
-	// 		if (isset($this->request->get['filter_date_added'])) {
-	// 			$url .= '&filter_date_added=' . $this->request->get['filter_date_added'];
+	// 		if (isset($this->request->get['filter_booking_date'])) {
+	// 			$url .= '&filter_booking_date=' . $this->request->get['filter_booking_date'];
 	// 		}
 
 	// 		if (isset($this->request->get['sort'])) {
@@ -108,55 +108,55 @@ class ControllerPromotionGuest extends Controller {
 	// 	$this->getForm();
 	// }
 
-	// public function delete() {
-	// 	$this->load->language('promotion/guest');
+	public function delete() {
+		$this->load->language('promotion/guest');
 
-	// 	$this->document->setTitle($this->language->get('heading_title'));
+		$this->document->setTitle($this->language->get('heading_title'));
 
-	// 	$this->load->model('promotion/guest');
+		$this->load->model('promotion/guest');
 
-	// 	if (isset($this->request->post['selected']) && $this->validateDelete()) {
-	// 		foreach ($this->request->post['selected'] as $guest_id) {
-	// 			$this->model_promotion_guest->deleteGuest($guest_id);
-	// 		}
+		if (isset($this->request->post['selected']) && $this->validateDelete()) {
+			foreach ($this->request->post['selected'] as $guest_id) {
+				$this->model_promotion_guest->deleteGuest($guest_id);
+			}
 
-	// 		$this->session->data['success'] = $this->language->get('text_success');
+			$this->session->data['success'] = $this->language->get('text_success');
 
-	// 		$url = '';
+			$url = '';
 
-	// 		if (isset($this->request->get['filter_name'])) {
-	// 			$url .= '&filter_name=' . urlencode(html_entity_decode($this->request->get['filter_name'], ENT_QUOTES, 'UTF-8'));
-	// 		}
+			if (isset($this->request->get['filter_name'])) {
+				$url .= '&filter_name=' . urlencode(html_entity_decode($this->request->get['filter_name'], ENT_QUOTES, 'UTF-8'));
+			}
 
-	// 		if (isset($this->request->get['filter_email'])) {
-	// 			$url .= '&filter_email=' . urlencode(html_entity_decode($this->request->get['filter_email'], ENT_QUOTES, 'UTF-8'));
-	// 		}
+			if (isset($this->request->get['filter_email'])) {
+				$url .= '&filter_email=' . urlencode(html_entity_decode($this->request->get['filter_email'], ENT_QUOTES, 'UTF-8'));
+			}
 
-	// 		if (isset($this->request->get['filter_telephone'])) {
-	// 			$url .= '&filter_telephone=' . $this->request->get['filter_telephone'];
-	// 		}
+			if (isset($this->request->get['filter_telephone'])) {
+				$url .= '&filter_telephone=' . $this->request->get['filter_telephone'];
+			}
 
-	// 		if (isset($this->request->get['filter_date_added'])) {
-	// 			$url .= '&filter_date_added=' . $this->request->get['filter_date_added'];
-	// 		}
+			if (isset($this->request->get['filter_booking_date'])) {
+				$url .= '&filter_booking_date=' . $this->request->get['filter_booking_date'];
+			}
 
-	// 		if (isset($this->request->get['sort'])) {
-	// 			$url .= '&sort=' . $this->request->get['sort'];
-	// 		}
+			if (isset($this->request->get['sort'])) {
+				$url .= '&sort=' . $this->request->get['sort'];
+			}
 
-	// 		if (isset($this->request->get['order'])) {
-	// 			$url .= '&order=' . $this->request->get['order'];
-	// 		}
+			if (isset($this->request->get['order'])) {
+				$url .= '&order=' . $this->request->get['order'];
+			}
 
-	// 		if (isset($this->request->get['page'])) {
-	// 			$url .= '&page=' . $this->request->get['page'];
-	// 		}
+			if (isset($this->request->get['page'])) {
+				$url .= '&page=' . $this->request->get['page'];
+			}
 
-	// 		$this->response->redirect($this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . $url, true));
-	// 	}
+			$this->response->redirect($this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . $url, true));
+		}
 
-	// 	$this->getList();
-	// }
+		$this->getList();
+	}
 
 	protected function getList() {
 		if (isset($this->request->get['filter_name'])) {
@@ -177,10 +177,10 @@ class ControllerPromotionGuest extends Controller {
 			$filter_telephone = null;
 		}
 
-		if (isset($this->request->get['filter_date_added'])) {
-			$filter_date_added = $this->request->get['filter_date_added'];
+		if (isset($this->request->get['filter_booking_date'])) {
+			$filter_booking_date = $this->request->get['filter_booking_date'];
 		} else {
-			$filter_date_added = null;
+			$filter_booking_date = null;
 		}
 
 		if (isset($this->request->get['order'])) {
@@ -215,8 +215,8 @@ class ControllerPromotionGuest extends Controller {
 			$url .= '&filter_telephone=' . $this->request->get['filter_telephone'];
 		}
 
-		if (isset($this->request->get['filter_date_added'])) {
-			$url .= '&filter_date_added=' . $this->request->get['filter_date_added'];
+		if (isset($this->request->get['filter_booking_date'])) {
+			$url .= '&filter_booking_date=' . $this->request->get['filter_booking_date'];
 		}
 
 		if (isset($this->request->get['sort'])) {
@@ -340,8 +340,8 @@ class ControllerPromotionGuest extends Controller {
 			$url .= '&filter_telephone=' . $this->request->get['filter_telephone'];
 		}
 
-		if (isset($this->request->get['filter_date_added'])) {
-			$url .= '&filter_date_added=' . $this->request->get['filter_date_added'];
+		if (isset($this->request->get['filter_booking_date'])) {
+			$url .= '&filter_booking_date=' . $this->request->get['filter_booking_date'];
 		}
 
 		if ($order == 'ASC') {
@@ -354,11 +354,10 @@ class ControllerPromotionGuest extends Controller {
 			$url .= '&page=' . $this->request->get['page'];
 		}
 
-		$data['sort_name'] = $this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . '&sort=pd.name' . $url, true);
-		$data['sort_email'] = $this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . '&sort=r.email' . $url, true);
-		$data['sort_booking_date'] = $this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . '&sort=r.booking_date' . $url, true);
-		$data['sort_telephone'] = $this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . '&sort=r.telephone' . $url, true);
-		$data['sort_date_added'] = $this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . '&sort=r.date_added' . $url, true);
+		$data['sort_name'] = $this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . '&sort=pg.name' . $url, true);
+		$data['sort_email'] = $this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . '&sort=pg.email' . $url, true);
+		$data['sort_booking_date'] = $this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . '&sort=pg.booking_date' . $url, true);
+		$data['sort_telephone'] = $this->url->link('promotion/guest', 'token=' . $this->session->data['token'] . '&sort=pg.telephone' . $url, true);
 
 		$url = '';
 
@@ -374,8 +373,8 @@ class ControllerPromotionGuest extends Controller {
 			$url .= '&filter_telephone=' . $this->request->get['filter_telephone'];
 		}
 
-		if (isset($this->request->get['filter_date_added'])) {
-			$url .= '&filter_date_added=' . $this->request->get['filter_date_added'];
+		if (isset($this->request->get['filter_booking_date'])) {
+			$url .= '&filter_booking_date=' . $this->request->get['filter_booking_date'];
 		}
 
 		if (isset($this->request->get['sort'])) {
@@ -399,7 +398,7 @@ class ControllerPromotionGuest extends Controller {
 		$data['filter_name'] = $filter_name;
 		$data['filter_email'] = $filter_email;
 		$data['filter_telephone'] = $filter_telephone;
-		$data['filter_date_added'] = $filter_date_added;
+		$data['filter_booking_date'] = $filter_booking_date;
 
 		$data['sort'] = $sort;
 		$data['order'] = $order;
@@ -474,8 +473,8 @@ class ControllerPromotionGuest extends Controller {
 	// 		$url .= '&filter_telephone=' . $this->request->get['filter_telephone'];
 	// 	}
 
-	// 	if (isset($this->request->get['filter_date_added'])) {
-	// 		$url .= '&filter_date_added=' . $this->request->get['filter_date_added'];
+	// 	if (isset($this->request->get['filter_booking_date'])) {
+	// 		$url .= '&filter_booking_date=' . $this->request->get['filter_booking_date'];
 	// 	}
 
 	// 	if (isset($this->request->get['sort'])) {
@@ -605,11 +604,11 @@ class ControllerPromotionGuest extends Controller {
 	// 	return !$this->error;
 	// }
 
-	// protected function validateDelete() {
-	// 	if (!$this->user->hasPermission('modify', 'promotion/guest')) {
-	// 		$this->error['warning'] = $this->language->get('error_permission');
-	// 	}
+	protected function validateDelete() {
+		if (!$this->user->hasPermission('modify', 'promotion/guest')) {
+			$this->error['warning'] = $this->language->get('error_permission');
+		}
 
-	// 	return !$this->error;
-	// }
+		return !$this->error;
+	}
 }

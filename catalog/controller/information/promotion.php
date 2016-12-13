@@ -21,7 +21,7 @@ class ControllerInformationPromotion extends Controller {
 				'name'         => $this->request->post['name']
 			);
 
-			$this->model_promotion_promotion->addActivity('promotion_guest_register', $activity_data);
+			$this->model_promotion_promotion->addActivity('guest_register', $activity_data);
 
 			$this->response->redirect($this->url->link('information/promotion/success'));
 		}

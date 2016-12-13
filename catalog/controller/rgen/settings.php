@@ -1,7 +1,6 @@
 <?php 
 class ControllerRgenSettings extends Controller {
 	public function index() {
-		
 		$storage      = $this->rgen->storage;
 		$rgenSettings = $this->rgen->rgenSettings;
 		$factory      = $this->rgen->factory;
@@ -183,7 +182,6 @@ class ControllerRgenSettings extends Controller {
 		/* System - Optimization
 		------------------------*/
 		$optimization = $factory->node($rgenConfig, 'rgen_optimization/system_optimization', 0, 0);
-
 
 		$configData = array(
 			

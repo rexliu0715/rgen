@@ -25,28 +25,27 @@ class ModelPromotionGuest extends Model {
 	public function getGuests($data = array()) {
 		$sql = "SELECT * FROM " . DB_PREFIX . "promotion_guest pg ";
 
-		if (!empty($data['filter_product'])) {
-			$sql .= " AND pg.name LIKE '" . $this->db->escape($data['filter_product']) . "%'";
+		if (!empty($data['filter_name'])) {
+			$sql .= " AND pg.name LIKE '" . $this->db->escape($data['filter_name']) . "%'";
 		}
 
-		if (!empty($data['filter_author'])) {
-			$sql .= " AND pg.author LIKE '" . $this->db->escape($data['filter_author']) . "%'";
+		if (!empty($data['filter_email'])) {
+			$sql .= " AND pg.email LIKE '" . $this->db->escape($data['filter_email']) . "%'";
 		}
 
-		if (isset($data['filter_status']) && !is_null($data['filter_status'])) {
-			$sql .= " AND pg.status = '" . (int)$data['filter_status'] . "'";
+		if (isset($data['filter_telephone']) && !is_null($data['filter_telephone'])) {
+			$sql .= " AND pg.telephone = '" . (int)$data['filter_telephone'] . "'";
 		}
 
-		if (!empty($data['filter_date_added'])) {
-			$sql .= " AND DATE(pg.date_added) = DATE('" . $this->db->escape($data['filter_date_added']) . "')";
+		if (!empty($data['filter_booking_date'])) {
+			$sql .= " AND DATE(pg.booking_date) = DATE('" . $this->db->escape($data['filter_booking_date']) . "')";
 		}
 
 		$sort_data = array(
 			'pg.name',
-			'pg.author',
-			'pg.rating',
-			'pg.status',
-			'pg.date_added'
+			'pg.email',
+			'pg.telephone',
+			'pg.booking_date'
 		);
 
 		if (isset($data['sort']) && in_array($data['sort'], $sort_data)) {
@@ -73,6 +72,7 @@ class ModelPromotionGuest extends Model {
 			$sql .= " LIMIT " . (int)$data['start'] . "," . (int)$data['limit'];
 		}
 
+		var_dump($sql);
 		$query = $this->db->query($sql);
 
 		return $query->rows;
@@ -81,20 +81,20 @@ class ModelPromotionGuest extends Model {
 	public function getTotalGuests($data = array()) {
 		$sql = "SELECT COUNT(*) AS total FROM " . DB_PREFIX . "promotion_guest pg ";
 
-		if (!empty($data['filter_product'])) {
-			$sql .= " AND pg.name LIKE '" . $this->db->escape($data['filter_product']) . "%'";
+		if (!empty($data['filter_name'])) {
+			$sql .= " AND pg.name LIKE '" . $this->db->escape($data['filter_name']) . "%'";
 		}
 
-		if (!empty($data['filter_author'])) {
-			$sql .= " AND pg.author LIKE '" . $this->db->escape($data['filter_author']) . "%'";
+		if (!empty($data['filter_email'])) {
+			$sql .= " AND pg.email LIKE '" . $this->db->escape($data['filter_email']) . "%'";
 		}
 
-		if (isset($data['filter_status']) && !is_null($data['filter_status'])) {
-			$sql .= " AND pg.status = '" . (int)$data['filter_status'] . "'";
+		if (isset($data['filter_telephone']) && !is_null($data['filter_telephone'])) {
+			$sql .= " AND pg.telephone = '" . (int)$data['filter_telephone'] . "'";
 		}
 
-		if (!empty($data['filter_date_added'])) {
-			$sql .= " AND DATE(pg.date_added) = DATE('" . $this->db->escape($data['filter_date_added']) . "')";
+		if (!empty($data['filter_booking_date'])) {
+			$sql .= " AND DATE(pg.booking_date) = DATE('" . $this->db->escape($data['filter_booking_date']) . "')";
 		}
 
 		$query = $this->db->query($sql);

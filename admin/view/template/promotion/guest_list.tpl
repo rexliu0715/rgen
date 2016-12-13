@@ -29,7 +29,7 @@
         <h3 class="panel-title"><i class="fa fa-list"></i> <?php echo $text_list; ?></h3>
       </div>
       <div class="panel-body">
-        <div class="well">
+<!--         <div class="well">
           <div class="row">
             <div class="col-sm-6">
               <div class="form-group">
@@ -57,7 +57,7 @@
               <button type="button" id="button-filter" class="btn btn-primary pull-right"><i class="fa fa-filter"></i> <?php echo $button_filter; ?></button>
             </div>
           </div>
-        </div>
+        </div> -->
         <form action="<?php echo $delete; ?>" method="post" enctype="multipart/form-data" id="form-guest">
           <div class="table-responsive">
             <table class="table table-bordered table-hover">

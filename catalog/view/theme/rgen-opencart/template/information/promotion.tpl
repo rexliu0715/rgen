@@ -10,6 +10,10 @@ include $rgen_config->layout_top;
 </div>
  -->
 
+<div>
+	<div class="flip-clock"></div>
+</div>
+
 <div class="row">
 	<div class="col-sm-4">
 		<div class="frm-wrp">
@@ -228,12 +232,24 @@ include $rgen_config->layout_top;
 
 <script type="text/javascript" src="catalog/view/javascript/jquery/datetimepicker/moment.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/flipclock/flipclock.min.js"></script>
 <script type="text/javascript"><!--
 $(document).ready(function() {
 	$('.hasDatepicker').datetimepicker({
 		pickTime: false
 	});
 });
+	
+	var tomorrow = new Date();
+	tomorrow.setHours(23,59,59);
+
+    var now = new Date();
+    var diff = (tomorrow.getTime()/1000) - (now.getTime()/1000);
+
+	var clock = $('.flip-clock').FlipClock(diff,{
+		countdown: true,
+	});
+
 </script>
 <?php 
 	include $rgen_config->layout_bottom;
