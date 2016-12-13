@@ -72,7 +72,6 @@ class ModelPromotionGuest extends Model {
 			$sql .= " LIMIT " . (int)$data['start'] . "," . (int)$data['limit'];
 		}
 
-		var_dump($sql);
 		$query = $this->db->query($sql);
 
 		return $query->rows;
