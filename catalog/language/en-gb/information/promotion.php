@@ -4,6 +4,7 @@ $_['heading_title']  = 'Promotion';
 
 // Text
 $_['text_promotion_title']  = '聚焦袪班美白激光';
+$_['text_countdown']  = '優惠尚餘時間~~';
 $_['text_promotion_header']  = '免費體驗';
 $_['text_store']     = 'Our Stores';
 $_['text_booking']   = 'Booking Form';
@@ -18,7 +19,7 @@ $_['text_success']   = '<p>Your enquiry has been successfully sent to the store 
 $_['text_methods']  = '登記方法';
 $_['text_method_1']  = '填寫表格';
 $_['text_method_2']  = '留意來電，Tridacna Beauty 將會在 24 小時內聯絡確認預約';
-$_['text_method_3']  = '預約時間請親臨 尖沙咀 廣東道 力寶太陽廣場 510 室';
+$_['text_method_3']  = '請依照預約時間請親臨 尖沙咀 廣東道 力寶太陽廣場 510 室';
 
 // Entry
 $_['entry_name']     = '姓名';

@@ -3,15 +3,11 @@ $rgen_config = $rgen;
 include $rgen_config->layout_top; 
 ?>
 
-<!-- <div class="frm-wrp contact-info">
-	<h3 class="frm-hd"><?php echo $text_promotion; ?></h3>
+<div class="frm-wrp promotion-info">
+	<h3 class="frm-hd"><?php echo $text_countdown; ?></h3>
 	<div class="row">
+		<div class="flip-clock"></div>
 	</div>
-</div>
- -->
-
-<div>
-	<div class="flip-clock"></div>
 </div>
 
 <div class="row">
