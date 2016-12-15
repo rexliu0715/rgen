@@ -19,7 +19,7 @@ $_['text_success']   = '<p>Your enquiry has been successfully sent to the store 
 $_['text_methods']  = '登記方法';
 $_['text_method_1']  = '填寫表格';
 $_['text_method_2']  = '留意來電，Tridacna Beauty 將會在 24 小時內聯絡確認預約';
-$_['text_method_3']  = '請依照預約時間請親臨 尖沙咀 廣東道 力寶太陽廣場 510 室';
+$_['text_method_3']  = '請依照預約時間準時請親臨 尖沙咀 廣東道 力寶太陽廣場 510 室';
 
 // Entry
 $_['entry_name']     = '姓名';
