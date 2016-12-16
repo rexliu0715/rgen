@@ -361,6 +361,27 @@ class ControllerCommonColumnLeft extends Controller {
 				);	
 			}
 			
+			// Guest
+			$promotion = array();
+			
+			if ($this->user->hasPermission('access', 'promotion/guest')) {
+				$promotion[] = array(
+					'name'	   => $this->language->get('text_promotion_guest'),
+					'href'     => $this->url->link('promotion/guest', 'token=' . $this->session->data['token'], true),
+					'children' => array()		
+				);	
+			}
+			
+			if ($promotion) {
+				$data['menus'][] = array(
+					'id'       => 'menu-promotion',
+					'icon'	   => 'fa-user', 
+					'name'	   => $this->language->get('text_promotion'),
+					'href'     => '',
+					'children' => $promotion
+				);	
+			}
+
 			// Marketing
 			$marketing = array();
 			
