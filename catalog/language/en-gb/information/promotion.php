@@ -29,7 +29,13 @@ $_['text_method_1']  = '填寫表格';
 $_['text_method_2']  = '留意來電，Tridacna Beauty 將會在 24 小時內聯絡確認預約';
 $_['text_method_3']  = '請依照預約時間準時請親臨 尖沙咀 廣東道 力寶太陽廣場 510 室';
 
+// Promotions
+$_['entry_promotion_1']     = "激光袪斑美白(面部) / 免費體驗";
+$_['entry_promotion_2']     = "酵素透明質酸保濕，加送Alqvinia 淋巴按摩 45mins / $288 試做價";
+$_['entry_promotion_3']     = "永久性激光脫毛，加送半永久駐顏粉底 [全面] 療程一次 / $328 試做價";
+
 // Entry
+$_['entry_promotions']     = '你想試做下列那個療程? (可選擇多項)';
 $_['entry_name']     = '姓名';
 $_['entry_telephone']	 = '電話';
 $_['entry_email']    = 'E-Mail';

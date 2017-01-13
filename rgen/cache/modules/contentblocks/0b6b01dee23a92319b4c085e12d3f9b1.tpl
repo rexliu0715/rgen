@@ -1,4 +1,4 @@
-<div id="rgen-contentblocks-rgenKthTVM" class="rgen-contentblocks contentblocks-rgJt7">
+<div id="rgen-contentblocks-rgenmP2KCy" class="rgen-contentblocks contentblocks-rgJt7">
 	<div class="mod-wrp container">
 		
 						<h3 class="mod-hd">Product Categories</h3>
@@ -219,9 +219,9 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat</section>
 </section>									</div>
 																	</div>
 								<script type="text/javascript" ><!--
-								$("#rgen-contentblocks-rgenKthTVM .widget-carousel").css({	opacity: 0 });
+								$("#rgen-contentblocks-rgenmP2KCy .widget-carousel").css({	opacity: 0 });
 								$(document).ready(function() {
-									var obj = "#rgen-contentblocks-rgenKthTVM .widget-carousel";
+									var obj = "#rgen-contentblocks-rgenmP2KCy .widget-carousel";
 									var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 									setTimeout(function () { widgetCarousel(obj, resObj); }, 100);
 								});

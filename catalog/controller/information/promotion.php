@@ -44,6 +44,7 @@ class ControllerInformationPromotion extends Controller {
 		$data['text_promotion_title'] = $this->language->get('text_promotion_title');
 		$data['text_hotline_title'] = $this->language->get('text_hotline_title');
 		$data['text_hotline'] = $this->language->get('text_hotline');
+		$data['text_booking'] = $this->language->get('text_booking');
 		$data['text_promotion'] = $this->language->get('text_promotion');
 		$data['text_booking_date'] = $this->language->get('text_booking_date');
 		$data['text_address'] = $this->language->get('text_address');
@@ -63,7 +64,13 @@ class ControllerInformationPromotion extends Controller {
 		$data['text_method_2'] = $this->language->get('text_method_2');
 		$data['text_method_3'] = $this->language->get('text_method_3');
 
+		// Promotions
+		$data['entry_promotion_1'] = $this->language->get('entry_promotion_1');
+		$data['entry_promotion_2'] = $this->language->get('entry_promotion_2');
+		$data['entry_promotion_3'] = $this->language->get('entry_promotion_3');
+
 		// Form
+		$data['entry_promotions'] = $this->language->get('entry_promotions');
 		$data['entry_name'] = $this->language->get('entry_name');
 		$data['entry_identity_card'] = $this->language->get('entry_identity_card');
 		$data['entry_telephone'] = $this->language->get('entry_telephone');

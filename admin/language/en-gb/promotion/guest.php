@@ -10,6 +10,7 @@ $_['text_edit']         = 'Edit Guest';
 
 // Column
 $_['column_name']    = 'Name';
+$_['column_promotions']    = 'Promotions';
 $_['column_email']     = 'Email';
 $_['column_booking_date']     = 'Booking Date';
 $_['column_telephone']     = 'Telephone';
@@ -35,3 +36,8 @@ $_['error_product']     = 'Name';
 $_['error_email']      = 'Email';
 $_['error_text']        = 'Guest';
 $_['error_identity_card']      = 'Identity Card';
+
+// Promotions
+// $_['promotion_1']     = "激光袪斑美白(面部) / 免費體驗";
+// $_['promotion_2']     = "酵素透明質酸保濕，加送Alqvinia 淋巴按摩 45mins / $288 試做價";
+// $_['promotion_3']     = "永久性激光脫毛，加送半永久駐顏粉底 [全面] 療程一次 / $328 試做價";

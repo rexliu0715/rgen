@@ -69,32 +69,33 @@
                     <?php } else { ?>
                     <a href="<?php echo $sort_name; ?>"><?php echo $column_name; ?></a>
                     <?php } ?></td>
-                  <td class="text-left"><?php if ($sort == 'r.email') { ?>
+                  <td class="text-left" width="25%"><?php echo $column_promotions; ?></td>
+                  <td class="text-left" width="10%"><?php if ($sort == 'r.email') { ?>
                     <a href="<?php echo $sort_email; ?>" class="<?php echo strtolower($order); ?>"><?php echo $column_email; ?></a>
                     <?php } else { ?>
                     <a href="<?php echo $sort_email; ?>"><?php echo $column_email; ?></a>
                     <?php } ?></td>
-                  <td class="text-left"><?php if ($sort == 'r.booking_date') { ?>
+                  <td class="text-left" width="10%"><?php if ($sort == 'r.booking_date') { ?>
                     <a href="<?php echo $sort_booking_date; ?>" class="<?php echo strtolower($order); ?>"><?php echo $column_booking_date; ?></a>
                     <?php } else { ?>
                     <a href="<?php echo $sort_booking_date; ?>"><?php echo $column_booking_date; ?></a>
                     <?php } ?></td>
-                  <td class="text-left"><?php if ($sort == 'r.telephone') { ?>
+                  <td class="text-left" width="10%"><?php if ($sort == 'r.telephone') { ?>
                     <a href="<?php echo $sort_telephone; ?>" class="<?php echo strtolower($order); ?>"><?php echo $column_telephone; ?></a>
                     <?php } else { ?>
                     <a href="<?php echo $sort_telephone; ?>"><?php echo $column_telephone; ?></a>
                     <?php } ?></td>
-                  <td class="text-left"><?php if ($sort == 'r.identity_card') { ?>
+                  <td class="text-left" width="10%"><?php if ($sort == 'r.identity_card') { ?>
                     <a href="<?php echo $sort_identity_card; ?>" class="<?php echo strtolower($order); ?>"><?php echo $column_identity_card; ?></a>
                     <?php } else { ?>
                     <a href="<?php echo $sort_identity_card; ?>"><?php echo $column_identity_card; ?></a>
                     <?php } ?></td>
-                  <td class="text-left"><?php if ($sort == 'r.date_added') { ?>
+                  <td class="text-left" width="10%"><?php if ($sort == 'r.date_added') { ?>
                     <a href="<?php echo $sort_date_added; ?>" class="<?php echo strtolower($order); ?>"><?php echo $column_date_added; ?></a>
                     <?php } else { ?>
                     <a href="<?php echo $sort_date_added; ?>"><?php echo $column_date_added; ?></a>
                     <?php } ?></td>
-                  <td class="text-right"><?php echo $column_action; ?></td>
+                  <td class="text-right" ><?php echo $column_action; ?></td>
                 </tr>
               </thead>
               <tbody>
@@ -107,6 +108,7 @@
                     <input type="checkbox" name="selected[]" value="<?php echo $guest['guest_id']; ?>" />
                     <?php } ?></td>
                   <td class="text-left"><?php echo $guest['name']; ?></td>
+                  <td class="text-left"><?php echo $guest['promotions']; ?></td>
                   <td class="text-left"><?php echo $guest['email']; ?></td>
                   <td class="text-left"><?php echo $guest['booking_date']; ?></td>
                   <td class="text-left"><?php echo $guest['telephone']; ?></td>

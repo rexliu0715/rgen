@@ -26,6 +26,35 @@ include $rgen_config->layout_top;
 		<fieldset>
 			<h3 class="frm-hd"><?php echo $text_booking; ?></h3>
 
+			<!-- Products -->
+			<div style="padding: 40px 40px;">
+			<div class="form-group required">
+				<label class="control-label"><h3><?php echo $entry_promotions; ?></h3></label>
+				<div class="fields">
+					<div id="input-promotion">
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" name="promotions[]" value="<?php echo $entry_promotion_1; ?>" checked>
+								<?php echo $entry_promotion_1; ?>
+							</label>
+						</div>
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" name="promotions[]" value="<?php echo $entry_promotion_2; ?>">
+								<?php echo $entry_promotion_2; ?>
+							</label>
+						</div>
+						<div class="checkbox">
+							<label>
+								<input type="checkbox" name="promotions[]" value="<?php echo $entry_promotion_3; ?>">
+								<?php echo $entry_promotion_3; ?>
+							</label>
+						</div>
+					</div>
+				</div>
+			</div>
+			</div>
+
 			<!-- Name -->
 			<div class="form-group required">
 			<label class="col-sm-2 control-label" for="input-name"><?php echo $entry_name; ?></label>

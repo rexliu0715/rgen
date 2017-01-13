@@ -1,4 +1,4 @@
-<div id="rgen-gridmanager-rgenCqq4uO" class="rgen-gridmanager gridmanager-rgpFy">
+<div id="rgen-gridmanager-rgensPIJ14" class="rgen-gridmanager gridmanager-rgpFy">
 	<div class="mod-wrp container">
 		
 						
@@ -11,7 +11,7 @@
 					
 											<div class="rw gt20 mb0">
 														<div class="cl cl4 d-xl4 t-xl12 m-xl12 m-sm12 m-xs12" style="">
-								<div id="rgen-basicslideshow-rgenZlcZKQ" class="rgen-basicslideshow basicslideshow-rgN0C">
+								<div id="rgen-basicslideshow-rgenE6BV9D" class="rgen-basicslideshow basicslideshow-rgN0C">
 	<div>
 		<div class="slideshow-wrp dots-typ1 normal">
 			<div class="slideshow">
@@ -31,17 +31,17 @@
 $(document).ready(function(){
 
 		if ($('.ly-column').length == 0) {
-		$("#rgen-basicslideshow-rgenZlcZKQ > div").addClass('container');
+		$("#rgen-basicslideshow-rgenE6BV9D > div").addClass('container');
 	};
 	
 	var win         = $(window);
 	var auto        = true;
 	var autostopped = false;
-	var container   = $("#rgen-basicslideshow-rgenZlcZKQ .slideshow-wrp");
+	var container   = $("#rgen-basicslideshow-rgenE6BV9D .slideshow-wrp");
 
 	/* Default slide script
 	------------------------*/
-	var sudoSlider = $("#rgen-basicslideshow-rgenZlcZKQ .slideshow").sudoSlider({
+	var sudoSlider = $("#rgen-basicslideshow-rgenE6BV9D .slideshow").sudoSlider({
 		responsive: true,
 		controlsAttr: 'class="owl-controls"',
 		effect: "random",
@@ -76,7 +76,7 @@ $(document).ready(function(){
 //--></script>
 							</div>
 														<div class="cl cl8 d-xl8 t-xl12 m-xl12 m-sm12 m-xs12" style="">
-								<div id="rgen-productgroups-rgenhkEGKc" class="rgen-productgroups productgroups-rgBhu">
+								<div id="rgen-productgroups-rgenOVX2Gl" class="rgen-productgroups productgroups-rgBhu">
 	<div class="mod-wrp container">
 	
 			
@@ -88,7 +88,7 @@ $(document).ready(function(){
 			<div class="mod-content">
 				
 								<div 
-					id            ="carousel-rgen-productgroups-rgenhkEGKc_0"
+					id            ="carousel-rgen-productgroups-rgenOVX2Gl_0"
 					class         ="widget-carousel ctrl-b " 
 					data-stpd     ="1" 
 					data-nav      ="false" 
@@ -332,9 +332,9 @@ $(document).ready(function(){
 </div>					</div>
 									</div>
 				<script type="text/javascript" ><!--
-				$("#rgen-productgroups-rgenhkEGKc #carousel-rgen-productgroups-rgenhkEGKc_0").css({	opacity: 0 });
+				$("#rgen-productgroups-rgenOVX2Gl #carousel-rgen-productgroups-rgenOVX2Gl_0").css({	opacity: 0 });
 				$(document).ready(function() {
-					var obj = "#rgen-productgroups-rgenhkEGKc #carousel-rgen-productgroups-rgenhkEGKc_0";
+					var obj = "#rgen-productgroups-rgenOVX2Gl #carousel-rgen-productgroups-rgenOVX2Gl_0";
 					var resObj = { 0: { items:1 },200: { items:1 },300: { items:1 },400: { items:1 },500: { items:2 },600: { items:3 },700: { items:3 },800: { items:4 },900: { items:4 },1000: { items:5 },1100: { items:5 }	};
 					var settings = { autoHeight: false }
 					setTimeout(function () { widgetCarousel(obj, resObj, settings); }, 500);
@@ -350,14 +350,14 @@ $(document).ready(function(){
 							</div>
 													</div>
 										<script>
-					$("#rgen-gridmanager-rgenCqq4uO").css({opacity: 0});
+					$("#rgen-gridmanager-rgensPIJ14").css({opacity: 0});
 					jQuery(document).ready(function($) {
-						$("#rgen-gridmanager-rgenCqq4uO").animate({opacity: 1}, 1000, function () {
-							equalH('#rgen-gridmanager-rgenCqq4uO .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgenCqq4uO .gridmanager-mod-content > .rw > .cl');
+						$("#rgen-gridmanager-rgensPIJ14").animate({opacity: 1}, 1000, function () {
+							equalH('#rgen-gridmanager-rgensPIJ14 .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgensPIJ14 .gridmanager-mod-content > .rw > .cl');
 						});
 					});
 					jQuery(window).resize(function($) {
-						equalH('#rgen-gridmanager-rgenCqq4uO .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgenCqq4uO .gridmanager-mod-content > .rw > .cl');
+						equalH('#rgen-gridmanager-rgensPIJ14 .gridmanager-mod-content > .rw', '#rgen-gridmanager-rgensPIJ14 .gridmanager-mod-content > .rw > .cl');
 					});
 					</script>
 					
