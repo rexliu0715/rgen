@@ -3,13 +3,6 @@ $rgen_config = $rgen;
 include $rgen_config->layout_top; 
 ?>
 
-<div class="frm-wrp promotion-info">
-	<h3 class="frm-hd"><?php echo $text_countdown; ?></h3>
-	<div class="row">
-		<div class="flip-clock"></div>
-	</div>
-</div>
-
 <div class="row">
 	<div class="frm-wrp">
 		<h3 class="frm-hd"><?php echo $text_methods; ?></h3>
@@ -167,7 +160,6 @@ include $rgen_config->layout_top;
 
 <script type="text/javascript" src="catalog/view/javascript/jquery/datetimepicker/moment.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js"></script>
-<script type="text/javascript" src="catalog/view/javascript/jquery/flipclock/flipclock.min.js"></script>
 <script type="text/javascript"><!--
 $(document).ready(function() {
 	$('.hasDatepicker').datetimepicker({

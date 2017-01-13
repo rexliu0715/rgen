@@ -1,229 +1,25 @@
-<div id="rgen-revslider-rgenxqKtIS" class="rgen-revslider revslider-rgrVA revo-fullwidth">
+<div id="rgen-revslider-rgenYappxW" class="rgen-revslider revslider-rgrVA revo-fullwidth">
 	<!-- START REVOLUTION SLIDER  fullwidth mode -->
 
 <div id="rev_slider_8_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#000000;padding:0px;margin-top:0px;margin-bottom:0px;max-height:600px;">
 	<div id="rev_slider_8_1" class="rev_slider fullwidthabanner" style="display:none;max-height:600px;height:600px;">
 <ul>	<!-- SLIDE  -->
-	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/"  data-thumb="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/catalog/revslider_media_folder/05.jpg"  data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off"  data-title="News">
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/"  data-thumb="http://local.tridacnabeauty.com/image/catalog/revslider_media_folder/home-banner1.jpg"  data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off"  data-title="News">
 		<!-- MAIN IMAGE -->
-		<img src="http://local.tridacnabeauty.com/system/config/revslider/images/dummy.png"  alt="05" data-lazyload="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/catalog/revslider_media_folder/05.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<img src="http://local.tridacnabeauty.com/system/config/revslider/images/dummy.png"  alt="home-banner1" data-lazyload="http://local.tridacnabeauty.com/image/catalog/revslider_media_folder/home-banner1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 		<!-- LAYERS -->
-
-		<!-- LAYER NR. 1 -->
-		<div class="tp-caption sft rs-parallaxlevel-0"
-			 data-x="88"
-			 data-y="164" 
-			data-speed="700"
-			data-start="400"
-			data-easing="Power3.easeInOut"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 2;"><img src="http://local.tridacnabeauty.com/system/config/revslider/images/dummy.png" alt="" data-lazyload="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/catalog/revslider_media_folder/1580312_demo06-slide1-text1.png">
-		</div>
-
-		<!-- LAYER NR. 2 -->
-		<div class="tp-caption rgen-cp1 sfl tp-resizeme rs-parallaxlevel-0"
-			 data-x="83"
-			 data-y="212" 
-			data-speed="700"
-			data-start="700"
-			data-easing="Power3.easeInOut"
-			data-splitin="none"
-			data-splitout="none"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">SIMPLICITY
-		</div>
-
-		<!-- LAYER NR. 3 -->
-		<div class="tp-caption rgen-cp2 sfl tp-resizeme rs-parallaxlevel-0"
-			 data-x="29"
-			 data-y="310" 
-			data-speed="700"
-			data-start="1200"
-			data-easing="Power3.easeInOut"
-			data-splitin="none"
-			data-splitout="none"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">Lorem ipsum dolor sit amet, consetetur<br>nsadipscing elitrsed diam nonumy
-		</div>
-
-		<!-- LAYER NR. 4 -->
-		<div class="tp-caption rgen-cp-btn sfb tp-resizeme rs-parallaxlevel-0"
-			 data-x="150"
-			 data-y="400" 
-			data-speed="700"
-			data-start="1700"
-			data-easing="Power3.easeInOut"
-			data-splitin="none"
-			data-splitout="none"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Shop new arrivals
-		</div>
 	</li>
 	<!-- SLIDE  -->
 	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/"  data-target="_blank" data-thumb="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/catalog/revslider_media_folder/07.jpg"  data-saveperformance="off"  data-title="Slide 2">
 		<!-- MAIN IMAGE -->
 		<img src="http://local.tridacnabeauty.com/system/config/revslider/images/dummy.png"  alt="07" data-lazyload="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/catalog/revslider_media_folder/07.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 		<!-- LAYERS -->
-
-		<!-- LAYER NR. 1 -->
-		<div class="tp-caption rgen-cp3 sft tp-resizeme rs-parallaxlevel-0"
-			 data-x="center" data-hoffset="0"
-			 data-y="center" data-voffset="-100"
-			data-speed="700"
-			data-start="500"
-			data-easing="Power3.easeInOut"
-			data-splitin="none"
-			data-splitout="none"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Limited time only
-		</div>
-
-		<!-- LAYER NR. 2 -->
-		<div class="tp-caption rgen-cp1-large sfb tp-resizeme rs-parallaxlevel-0"
-			 data-x="center" data-hoffset="0"
-			 data-y="center" data-voffset="0"
-			data-speed="700"
-			data-start="700"
-			data-easing="Power3.easeInOut"
-			data-splitin="none"
-			data-splitout="none"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">CLEARANCE
-		</div>
-
-		<!-- LAYER NR. 3 -->
-		<div class="tp-caption rgen-cp2 sfb tp-resizeme rs-parallaxlevel-0"
-			 data-x="center" data-hoffset="0"
-			 data-y="center" data-voffset="100"
-			data-speed="700"
-			data-start="1200"
-			data-easing="Power3.easeInOut"
-			data-splitin="none"
-			data-splitout="none"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><strong style="font-weight: 800;">SAVE UP TO 75% ON SELECTED RANGE</strong>
-		</div>
-
-		<!-- LAYER NR. 4 -->
-		<div class="tp-caption rgen-cp-btn sft tp-resizeme rs-parallaxlevel-0"
-			 data-x="center" data-hoffset="0"
-			 data-y="center" data-voffset="150"
-			data-speed="700"
-			data-start="1700"
-			data-easing="Power3.easeInOut"
-			data-splitin="none"
-			data-splitout="none"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Shop Now
-		</div>
 	</li>
 	<!-- SLIDE  -->
 	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/"  data-target="_blank" data-thumb="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/catalog/revslider_media_folder/02.jpg"  data-saveperformance="off"  data-title="Slide 3">
 		<!-- MAIN IMAGE -->
 		<img src="http://local.tridacnabeauty.com/system/config/revslider/images/dummy.png"  alt="02" data-lazyload="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/catalog/revslider_media_folder/02.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 		<!-- LAYERS -->
-
-		<!-- LAYER NR. 1 -->
-		<div class="tp-caption randomrotate rs-parallaxlevel-0"
-			 data-x="right" data-hoffset="-15"
-			 data-y="center" data-voffset="0"
-			data-speed="700"
-			data-start="400"
-			data-easing="Power3.easeInOut"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 2;"><img src="http://local.tridacnabeauty.com/system/config/revslider/images/dummy.png" alt="" data-lazyload="http://ec2-52-76-172-22.ap-southeast-1.compute.amazonaws.com/image/catalog/revslider_media_folder/4387317_demo06-slide2-circle.png">
-		</div>
-
-		<!-- LAYER NR. 2 -->
-		<div class="tp-caption rgen-cp3 sft tp-resizeme rs-parallaxlevel-0"
-			 data-x="right" data-hoffset="-183"
-			 data-y="174" 
-			data-speed="700"
-			data-start="700"
-			data-easing="Power3.easeInOut"
-			data-splitin="none"
-			data-splitout="none"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Great Offers
-		</div>
-
-		<!-- LAYER NR. 3 -->
-		<div class="tp-caption rgen-cp1 sfb tp-resizeme rs-parallaxlevel-0"
-			 data-x="right" data-hoffset="-105"
-			 data-y="219" 
-			data-speed="700"
-			data-start="1200"
-			data-easing="Power3.easeInOut"
-			data-splitin="none"
-			data-splitout="none"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">HUGH SALE
-		</div>
-
-		<!-- LAYER NR. 4 -->
-		<div class="tp-caption rgen-cp2 sfb tp-resizeme rs-parallaxlevel-0"
-			 data-x="right" data-hoffset="-135"
-			 data-y="318" 
-			data-speed="700"
-			data-start="1700"
-			data-easing="Power3.easeInOut"
-			data-splitin="none"
-			data-splitout="none"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;"><strong style="font-weight: 800;">SAVE UP TO 75%</strong> <br>ON SELECTED RANGE
-		</div>
-
-		<!-- LAYER NR. 5 -->
-		<div class="tp-caption rgen-cp-btn sft tp-resizeme rs-parallaxlevel-0"
-			 data-x="right" data-hoffset="-190"
-			 data-y="411" 
-			data-speed="700"
-			data-start="2200"
-			data-easing="Power3.easeInOut"
-			data-splitin="none"
-			data-splitout="none"
-			data-elementdelay="0.1"
-			data-endelementdelay="0.1"
-			 data-endspeed="700"
-
-			style="z-index: 6; max-width: auto; max-height: auto; white-space: nowrap;">Shop Now
-		</div>
 	</li>
 </ul>
 <div class="tp-static-layers">

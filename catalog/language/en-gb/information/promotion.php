@@ -6,7 +6,6 @@ $_['heading_title']  = 'Promotion';
 $_['text_hotline_title']  = '預約及查詢熱線';
 $_['text_hotline']  = 'Tel: 29813680';
 $_['text_promotion_title']  = '聚焦袪班美白激光';
-$_['text_countdown']  = '優惠尚餘時間~~';
 $_['text_promotion_header']  = '免費體驗';
 $_['text_store']     = 'Our Stores';
 $_['text_booking']   = 'Booking Form';

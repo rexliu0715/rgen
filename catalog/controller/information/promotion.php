@@ -44,7 +44,6 @@ class ControllerInformationPromotion extends Controller {
 		$data['text_promotion_title'] = $this->language->get('text_promotion_title');
 		$data['text_hotline_title'] = $this->language->get('text_hotline_title');
 		$data['text_hotline'] = $this->language->get('text_hotline');
-		$data['text_countdown'] = $this->language->get('text_countdown');
 		$data['text_promotion'] = $this->language->get('text_promotion');
 		$data['text_booking_date'] = $this->language->get('text_booking_date');
 		$data['text_address'] = $this->language->get('text_address');
