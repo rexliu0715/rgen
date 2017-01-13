@@ -2,7 +2,7 @@
 class ModelPromotionPromotion extends Model {
 
 	public function addGuest($data) {
-		$this->db->query("INSERT INTO " . DB_PREFIX . "promotion_guest SET name = '" . $this->db->escape($data['name']) . "', identity_card = '" . $this->db->escape($data['identity_card']) . "', email = '" . $this->db->escape($data['email']) . "', telephone = '" . $this->db->escape($data['telephone']) . "', promotions = '" . implode(",", $data['promotions']) . "', age = '" . $this->db->escape($data['age']) . "', booking_date = '" . $this->db->escape($data['booking_date']) . "', date_time = '" . $this->db->escape($data['date_time']) . "', date_added = NOW()");
+		$this->db->query("INSERT INTO " . DB_PREFIX . "promotion_guest SET name = '" . $this->db->escape($data['name']) . "', email = '" . $this->db->escape($data['email']) . "', telephone = '" . $this->db->escape($data['telephone']) . "', promotions = '" . implode(",", $data['promotions']) . "', age = '" . $this->db->escape($data['age']) . "', booking_date = '" . $this->db->escape($data['booking_date']) . "', date_time = '" . $this->db->escape($data['date_time']) . "', date_added = NOW()");
 
 		$id = $this->db->getLastId();
 

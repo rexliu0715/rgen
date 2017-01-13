@@ -2,6 +2,9 @@
 // Heading
 $_['heading_title']  = 'Promotion';
 
+// Submit
+$_['button_submit']  = '立即登記';
+
 // Text
 $_['text_hotline_title']  = '預約及查詢熱線';
 $_['text_hotline']  = 'Tel: 29813680';
@@ -45,7 +48,6 @@ $_['entry_date_time'] 	 = '時間';
 $_['entry_date_year'] 	 = '年份';
 $_['entry_date_day'] 	 = '日期';
 $_['entry_date_month'] 	 = '月份';
-$_['entry_identity_card'] 	 = '身份證(頭 4 位數字)';
 $_['entry_terms'] 	 = '本人已閱讀';
 
 // Policy
@@ -67,6 +69,5 @@ $_['email_subject']  = 'Enquiry %s';
 // Errors
 $_['error_name']     = 'Name';
 $_['error_email']    = 'E-Mail';
-$_['error_identity_card']  = 'ID card';
 $_['error_telephone']     = 'Telephone';
 

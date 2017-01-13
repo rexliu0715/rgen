@@ -66,17 +66,6 @@ include $rgen_config->layout_top;
 			</div>
 			</div>
 
-			<!-- Identity card --> 
-			<div class="form-group required">
-			<label class="col-sm-2 control-label" for="input-identity_card"><?php echo $entry_identity_card; ?></label>
-			<div class="col-sm-10">
-				<input type="text" name="identity_card" value="<?php echo $identity_card; ?>" id="input-identity-card" class="form-control" />
-				<?php if ($error_identity_card) { ?>
-				<div class="text-danger"><?php echo $error_identity_card; ?></div>
-				<?php } ?>
-			</div>
-			</div>
-
 			<!-- Telephone --> 
 			<div class="form-group required">
 			<label class="col-sm-2 control-label" for="input-telephone"><?php echo $entry_telephone; ?></label>

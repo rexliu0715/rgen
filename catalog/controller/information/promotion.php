@@ -72,7 +72,6 @@ class ControllerInformationPromotion extends Controller {
 		// Form
 		$data['entry_promotions'] = $this->language->get('entry_promotions');
 		$data['entry_name'] = $this->language->get('entry_name');
-		$data['entry_identity_card'] = $this->language->get('entry_identity_card');
 		$data['entry_telephone'] = $this->language->get('entry_telephone');
 		$data['entry_email'] = $this->language->get('entry_email');
 		$data['entry_age']	= $this->language->get('entry_age');
@@ -96,12 +95,6 @@ class ControllerInformationPromotion extends Controller {
 			$data['error_name'] = $this->error['name'];
 		} else {
 			$data['error_name'] = '';
-		}
-
-		if (isset($this->error['identity_card'])) {
-			$data['error_identity_card'] = $this->error['identity_card'];
-		} else {
-			$data['error_identity_card'] = '';
 		}
 
 		if (isset($this->error['email'])) {
@@ -139,13 +132,6 @@ class ControllerInformationPromotion extends Controller {
 			$data['name'] = $this->request->post['name'];
 		} else {
 			$data['name'] = $this->customer->getFirstName();
-		}
-
-		// Identity Card
-		if (isset($this->request->post['identity_card'])) {
-			$data['identity_card'] = $this->request->post['identity_card'];
-		} else {
-			$data['identity_card'] = '';
 		}
 
 		// Telephone
@@ -187,10 +173,6 @@ class ControllerInformationPromotion extends Controller {
 	protected function validate() {
 		if ((utf8_strlen($this->request->post['name']) < 3) || (utf8_strlen($this->request->post['name']) > 32)) {
 			$this->error['name'] = $this->language->get('error_name');
-		}
-
-		if ((utf8_strlen($this->request->post['identity_card']) < 3) || (utf8_strlen($this->request->post['identity_card']) > 5)) {
-			$this->error['identity_card'] = $this->language->get('error_identity_card');
 		}
 
 		if (!filter_var($this->request->post['email'], FILTER_VALIDATE_EMAIL)) {

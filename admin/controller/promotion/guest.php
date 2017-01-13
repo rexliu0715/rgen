@@ -277,7 +277,6 @@ class ControllerPromotionGuest extends Controller {
 				'name'       => $result['name'],
 				'email'     => $result['email'],
 				'promotions'     => $promotions,
-				'identity_card'     => $result['identity_card'],
 				'telephone'     => $result['telephone'],
 				'booking_date'	=> date($this->language->get('date_format_short'), strtotime($result['booking_date'])) . ' ** ' . $result['date_time'], 
 				'date_added' => date($this->language->get('date_format_short'), strtotime($result['date_added'])),
@@ -296,7 +295,6 @@ class ControllerPromotionGuest extends Controller {
 		$data['column_name'] = $this->language->get('column_name');
 		$data['column_promotions'] = $this->language->get('column_promotions');
 		$data['column_email'] = $this->language->get('column_email');
-		$data['column_identity_card'] = $this->language->get('column_identity_card');
 		$data['column_booking_date'] = $this->language->get('column_booking_date');
 		$data['column_telephone'] = $this->language->get('column_telephone');
 		$data['column_date_added'] = $this->language->get('column_date_added');
@@ -305,7 +303,6 @@ class ControllerPromotionGuest extends Controller {
 		$data['entry_name'] = $this->language->get('entry_name');
 		$data['entry_promotions'] = $this->language->get('entry_promotions');
 		$data['entry_email'] = $this->language->get('entry_email');
-		$data['entry_identity_card'] = $this->language->get('entry_identity_card');
 		$data['entry_booking_date'] = $this->language->get('entry_booking_date');
 		$data['entry_telephone'] = $this->language->get('entry_telephone');
 		$data['entry_date_added'] = $this->language->get('entry_date_added');

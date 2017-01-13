@@ -14,14 +14,12 @@ $_['column_promotions']    = 'Promotions';
 $_['column_email']     = 'Email';
 $_['column_booking_date']     = 'Booking Date';
 $_['column_telephone']     = 'Telephone';
-$_['column_identity_card']     = 'ID Card';
 $_['column_date_added'] = 'Date Added';
 $_['column_action']     = 'Action';
 
 // Entry
 $_['entry_name']     = 'Name';
 $_['entry_email']      = 'Email';
-$_['entry_identity_card']      = 'ID Card';
 $_['entry_booking_date']      = 'Booking Date';
 $_['entry_telephone']      = 'Telephone';
 $_['entry_text']        = 'Text';
@@ -35,7 +33,6 @@ $_['error_permission']  = 'Warning: You do not have permission to modify guests!
 $_['error_product']     = 'Name';
 $_['error_email']      = 'Email';
 $_['error_text']        = 'Guest';
-$_['error_identity_card']      = 'Identity Card';
 
 // Promotions
 // $_['promotion_1']     = "激光袪斑美白(面部) / 免費體驗";

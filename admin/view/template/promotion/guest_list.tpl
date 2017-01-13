@@ -85,11 +85,6 @@
                     <?php } else { ?>
                     <a href="<?php echo $sort_telephone; ?>"><?php echo $column_telephone; ?></a>
                     <?php } ?></td>
-                  <td class="text-left" width="10%"><?php if ($sort == 'r.identity_card') { ?>
-                    <a href="<?php echo $sort_identity_card; ?>" class="<?php echo strtolower($order); ?>"><?php echo $column_identity_card; ?></a>
-                    <?php } else { ?>
-                    <a href="<?php echo $sort_identity_card; ?>"><?php echo $column_identity_card; ?></a>
-                    <?php } ?></td>
                   <td class="text-left" width="10%"><?php if ($sort == 'r.date_added') { ?>
                     <a href="<?php echo $sort_date_added; ?>" class="<?php echo strtolower($order); ?>"><?php echo $column_date_added; ?></a>
                     <?php } else { ?>
@@ -112,7 +107,6 @@
                   <td class="text-left"><?php echo $guest['email']; ?></td>
                   <td class="text-left"><?php echo $guest['booking_date']; ?></td>
                   <td class="text-left"><?php echo $guest['telephone']; ?></td>
-                  <td class="text-left"><?php echo $guest['identity_card']; ?></td>
                   <td class="text-left"><?php echo $guest['date_added']; ?></td>
                   <!-- href="<?php //echo $guest['edit']; ?>" -->
                   <td class="text-right"><a data-toggle="tooltip" title="<?php echo $button_edit; ?>" class="btn btn-primary"><i class="fa fa-pencil"></i></a></td>
