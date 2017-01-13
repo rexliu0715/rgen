@@ -1,4 +1,4 @@
-<div id="rgen-contentblocks-rgenOpWmRU" class="rgen-contentblocks contentblocks-rgjTM">
+<div id="rgen-contentblocks-rgenaOfzoZ" class="rgen-contentblocks contentblocks-rgjTM">
 	<div class="mod-wrp container">
 		
 						
@@ -66,7 +66,7 @@
 																	</div>
 																<script>
 								jQuery(document).ready(function($) {
-									equalH('#rgen-contentblocks-rgenOpWmRU .contentblock-grid', '#rgen-contentblocks-rgenOpWmRU .contentblock-grid > .cl');
+									equalH('#rgen-contentblocks-rgenaOfzoZ .contentblock-grid', '#rgen-contentblocks-rgenaOfzoZ .contentblock-grid > .cl');
 								});
 								</script>
 																

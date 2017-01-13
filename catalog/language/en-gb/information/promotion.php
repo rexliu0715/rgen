@@ -3,6 +3,8 @@
 $_['heading_title']  = 'Promotion';
 
 // Text
+$_['text_hotline_title']  = '預約及查詢熱線';
+$_['text_hotline']  = 'Tel: 29813680';
 $_['text_promotion_title']  = '聚焦袪班美白激光';
 $_['text_countdown']  = '優惠尚餘時間~~';
 $_['text_promotion_header']  = '免費體驗';
@@ -14,6 +16,11 @@ $_['text_fax']       = 'Fax';
 $_['text_open']      = 'Opening Times';
 $_['text_comment']   = 'Comments';
 $_['text_success']   = '<p>Your enquiry has been successfully sent to the store owner!</p>';
+
+// Statements
+$_['text_statements_title'] = '聲明';
+$_['text_statements_1'] = '閣下所提拱的個人資料僅作為聯絡事宜或收取本公司資訊之用';
+$_['text_statements_2'] = '本公司不會將參加者所有資料轉移到任何第三方之用';
 
 // Methods
 $_['text_methods']  = '登記方法';

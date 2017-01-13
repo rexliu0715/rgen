@@ -363,7 +363,7 @@ class ControllerCommonColumnLeft extends Controller {
 			
 			// Guest
 			$promotion = array();
-			
+
 			if ($this->user->hasPermission('access', 'promotion/guest')) {
 				$promotion[] = array(
 					'name'	   => $this->language->get('text_promotion_guest'),
