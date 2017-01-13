@@ -235,6 +235,10 @@ class ControllerInformationPromotion extends Controller {
 
 		$data['text_message'] = $this->language->get('text_success');
 
+		$data['text_promotion_message'] = $this->language->get('text_promotion_success');
+
+		$data['page_promotion'] = $this->language->get('page_promotion');
+
 		$data['button_continue'] = $this->language->get('button_continue');
 
 		$data['continue'] = $this->url->link('common/home');

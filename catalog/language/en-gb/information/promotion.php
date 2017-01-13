@@ -14,7 +14,9 @@ $_['text_telephone'] = 'Telephone';
 $_['text_fax']       = 'Fax';
 $_['text_open']      = 'Opening Times';
 $_['text_comment']   = 'Comments';
-$_['text_success']   = '<p>Your enquiry has been successfully sent to the store owner!</p>';
+$_['text_promotion_success']   = '<div class="row"><div class="col-md-8 col-md-offset-2"><div class="well well-lg text-center" style="padding: 100px 50px;"><dt><h1>THANK YOU</h1></dt><dl style="padding: 20px 0px;"><h3 style="padding: 20px 0px;">Tridacna Beauty 將有專人聯絡您預約<h3></dl>
+<div><button type="button" class="btn btn-info"><a style="color:#FFFFFF" href="https://www.facebook.com/tridacnabeauty/?fref=ts">了解更多</a></button>
+</div></div><div><p>了解更多Landing 落Facebook Page<p></div></div></div>';
 
 // Statements
 $_['text_statements_title'] = '聲明';
