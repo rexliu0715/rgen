@@ -5,7 +5,7 @@
 	
 }
 @media only screen and (min-width: 980px) and (max-width: 1199px) {
-	.main-wrapper { max-width: 1140px; min-width: 980px; }
+	.main-wrapper { max-width: 920px; min-width: 890px; }
 	.fw.out-wrapper .container,	.out-wrapper, .container { max-width: 960px; }
 	.layout-wrp .ly-body-2 { width: 76%; }
 	.layout-wrp .ly-column { width: 24%; }
