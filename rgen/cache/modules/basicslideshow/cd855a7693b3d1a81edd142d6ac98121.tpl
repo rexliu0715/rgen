@@ -1,4 +1,4 @@
-<div id="rgen-basicslideshow-rgenj9j5mT" class="rgen-basicslideshow basicslideshow-rgN0C">
+<div id="rgen-basicslideshow-rgennnV2Zx" class="rgen-basicslideshow basicslideshow-rgN0C">
 	<div>
 		<div class="slideshow-wrp dots-typ1 normal">
 			<div class="slideshow">
@@ -18,17 +18,17 @@
 $(document).ready(function(){
 
 		if ($('.ly-column').length == 0) {
-		$("#rgen-basicslideshow-rgenj9j5mT > div").addClass('container');
+		$("#rgen-basicslideshow-rgennnV2Zx > div").addClass('container');
 	};
 	
 	var win         = $(window);
 	var auto        = true;
 	var autostopped = false;
-	var container   = $("#rgen-basicslideshow-rgenj9j5mT .slideshow-wrp");
+	var container   = $("#rgen-basicslideshow-rgennnV2Zx .slideshow-wrp");
 
 	/* Default slide script
 	------------------------*/
-	var sudoSlider = $("#rgen-basicslideshow-rgenj9j5mT .slideshow").sudoSlider({
+	var sudoSlider = $("#rgen-basicslideshow-rgennnV2Zx .slideshow").sudoSlider({
 		responsive: true,
 		controlsAttr: 'class="owl-controls"',
 		effect: "random",

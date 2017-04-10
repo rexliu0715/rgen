@@ -69,6 +69,16 @@ About Us			</span>
 Contact Us			</span>
 			
 		</li>
+				<li class="">
+						<span class="main-item">
+	<span 
+		style="top: 0px;left: 0px;width:100px;"
+		class="nav-lbl img-lbl ">
+		<img src="image/catalog/iso.jpg" alt="label">
+	</span>
+.			</span>
+			
+		</li>
 			</ul>
 </nav>
 <script>
