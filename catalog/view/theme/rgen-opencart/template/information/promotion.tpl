@@ -24,18 +24,6 @@ include $rgen_config->layout_top;
 				</div>
 			</div>
 			<div class="frm-wrp">
-				<h3 class="frm-hd">強效改善4大問題：</h3>
-				<div class="font-promotion-methods">
-					<ul class="ul-list-1 first">
-						<li>✔幼嫩膚質/減淡妊娠紋</li>
-						<li>✔去水腫</li>
-						<li>✔溶解頑固脂肪</li>
-						<li>✔收緊線條</li>
-					</ul>
-				</div>
-			</div>
-
-			<div class="frm-wrp">
 				<h3 class="frm-hd"><?php echo $text_methods; ?></h3>
 				<div class="font-promotion-methods">
 					<ul class="ul-list-1 first">
@@ -59,7 +47,12 @@ include $rgen_config->layout_top;
 			</div>
 		</div>
 		<div class="col-sm-6">
-			<img class="img-responsive" src="/image/promotion/promotion10-04-17.jpeg">
+			<div class="frm-wrp">
+				<h3 class="frm-hd">強效改善4大問題：</h3>
+				<div class="font-promotion-methods">
+					<img class="img-responsive" src="/image/promotion/promotion10-04-17.jpeg">
+				</div>
+			</div>
 		</div>
 	</div>
 
